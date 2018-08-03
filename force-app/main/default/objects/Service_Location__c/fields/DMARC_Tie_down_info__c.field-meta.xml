@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>DMARC_Tie_down_info__c</fullName>
+    <description>DMARC/Tie down info</description>
+    <externalId>false</externalId>
+    <inlineHelpText>DMARC/Tie down info specific to a service at a service location</inlineHelpText>
+    <label>DMARC/Tie down info</label>
+    <length>255</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>
