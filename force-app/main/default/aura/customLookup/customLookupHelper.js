@@ -1,6 +1,7 @@
 ({
 	searchHelper : function(component,event,getInputkeyWord) {
-	  // call the apex class method 
+    
+    // call the apex class method 
      var action = component.get("c.fetchLookUpValues");
       // set param to method  
         action.setParams({

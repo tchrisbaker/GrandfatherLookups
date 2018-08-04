@@ -8,6 +8,15 @@
           var getInputkeyWord = '';
           helper.searchHelper(component,event,getInputkeyWord);
      },
+     doInit: function(cmp){
+         
+         //var newObj = {Name : "xxxxxx"};
+         var newObj = {};
+         newObj.Name = "Insert New Address";
+         console.log("@@@ " + JSON.stringify(newObj));
+         cmp.set("v.InsertNew", newObj);
+        
+     },
      onblur : function(component,event,helper){       
          component.set("v.listOfSearchRecords", null );
          var forclose = component.find("searchRes");
@@ -52,10 +61,11 @@
      
    // This function call when the end User Select any record from the result list.   
      handleComponentEvent : function(component, event, helper) {
+        
      // get the selected Account record from the COMPONETN event 	 
         var selectedAccountGetFromEvent = event.getParam("recordByEvent");
         component.set("v.selectedRecord" , selectedAccountGetFromEvent); 
-        
+        console.log("@!!!@@ selected " + selectedAccountGetFromEvent.Name);
          var forclose = component.find("lookup-pill");
             $A.util.addClass(forclose, 'slds-show');
             $A.util.removeClass(forclose, 'slds-hide');

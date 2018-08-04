@@ -1,0 +1,11 @@
+<aura:component implements="flexipage:availableForAllPageTypes,force:appHostable,flexipage:availableForRecordHome,force:hasRecordId,force:hasSObjectName" access="global" >
+<aura:attribute name="fieldsList" type="String[]" default="['Id', 'Name']"/>
+    
+    <lightning:recordForm 
+                              recordId="{!v.recordId}" 
+                              objectApiName="Account"
+                              fields="{!v.fieldsList}"
+                              columns="2"
+                              mode="New"
+                              />
+</aura:component>
