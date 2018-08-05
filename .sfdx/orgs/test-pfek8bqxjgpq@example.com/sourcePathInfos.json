@@ -32,40 +32,40 @@
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 320,
             "modifiedTime": 1533387989707,
             "changeTime": 1533387989707,
-            "contentHash": "d949af1c49a2c6d0ca268b1ba7bfb665f00af96e"
+            "contentHash": "d949af1c49a2c6d0ca268b1ba7bfb665f00af96e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1533387989680,
             "changeTime": 1533387989680,
-            "contentHash": "17664c3d0477b875576ec08e1c25e51dbd9db207"
+            "contentHash": "17664c3d0477b875576ec08e1c25e51dbd9db207",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 160,
             "modifiedTime": 1533387989700,
             "changeTime": 1533387989700,
-            "contentHash": "16d00e4b80fce6c11304de3e9d897f6cb64b6428"
+            "contentHash": "16d00e4b80fce6c11304de3e9d897f6cb64b6428",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -472,7 +472,7 @@
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/TestLookup",
             "isDirectory": true,
             "size": 320,
-            "modifiedTime": 1533375300924,
+            "modifiedTime": 1533464327540,
             "changeTime": 1533327440491,
             "contentHash": "047fccf03718005c01b0e32b88f285c003553753",
             "isMetadataFile": false,
@@ -495,14 +495,14 @@
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/classes/CustomLookUpController.cls",
         {
+            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/classes/CustomLookUpController.cls",
             "isDirectory": false,
-            "size": 773,
-            "modifiedTime": 1533378421946,
-            "changeTime": 1533378421946,
-            "contentHash": "a031ae0d88f2567ca496720a2261d7a18bc74008",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 778,
+            "modifiedTime": 1533464444179,
+            "changeTime": 1533464444179,
+            "contentHash": "3141d0a3bdb44a40637017c895ba665095bf424f"
         }
     ],
     [
@@ -664,14 +664,14 @@
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/TestLookup/TestLookup.app",
         {
-            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/TestLookup/TestLookup.app",
             "isDirectory": false,
+            "size": 581,
+            "modifiedTime": 1533464327540,
+            "changeTime": 1533464327540,
+            "contentHash": "388ea0a57eebd438ca3690dca6bafb7c695d092c",
             "isMetadataFile": false,
-            "size": 568,
-            "modifiedTime": 1533387989679,
-            "changeTime": 1533387989679,
-            "contentHash": "2959230edd6d8a7e211c2f00728861b5b9374fad"
+            "state": "u"
         }
     ],
     [
@@ -1288,131 +1288,157 @@
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/NewAddress/NewAddress.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/NewAddress/NewAddress.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1533387989681,
             "changeTime": 1533387989681,
-            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/NewAddress/NewAddress.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/NewAddress/NewAddress.cmp",
             "isDirectory": false,
+            "size": 1741,
+            "modifiedTime": 1533464327535,
+            "changeTime": 1533464327535,
+            "contentHash": "a280c61dd8a145cc61c0c2e38ef5e4c0209653bd",
             "isMetadataFile": false,
-            "size": 579,
-            "modifiedTime": 1533387989681,
-            "changeTime": 1533387989681,
-            "contentHash": "17c9a61614e5a46cdea1d473be46ed082dcba754"
+            "state": "u"
         }
     ],
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/objects/Account/Account.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/objects/Account/Account.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3922,
             "modifiedTime": 1533387989701,
             "changeTime": 1533387989701,
-            "contentHash": "de30eba9e5f36f11657cdc19ac079bcf3d22ab1e"
+            "contentHash": "de30eba9e5f36f11657cdc19ac079bcf3d22ab1e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/layouts/Address__c-Address Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/layouts/Address__c-Address Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3041,
             "modifiedTime": 1533387989705,
             "changeTime": 1533387989705,
-            "contentHash": "947a13b5558b839c6d3fd8485a6f9062584f1fb2"
+            "contentHash": "947a13b5558b839c6d3fd8485a6f9062584f1fb2",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6238,
             "modifiedTime": 1533387989708,
             "changeTime": 1533387989708,
-            "contentHash": "450fddbba17c7a0ea83f462df61fd88903a90dc8"
+            "contentHash": "450fddbba17c7a0ea83f462df61fd88903a90dc8",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/flexipages/Account_Record_Page1.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/flexipages/Account_Record_Page1.flexipage-meta.xml",
             "isDirectory": false,
+            "size": 7127,
+            "modifiedTime": 1533462867182,
+            "changeTime": 1533462867182,
+            "contentHash": "0beb305a2b6b1b744556edb8317c36de128b2fde",
             "isMetadataFile": true,
-            "size": 6238,
-            "modifiedTime": 1533387989712,
-            "changeTime": 1533387989712,
-            "contentHash": "9aec6bef83b1307ac9e1f762d40b9d28857fc685"
+            "state": "u"
         }
     ],
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/NewAddress",
         {
-            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/NewAddress",
             "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1533464327535,
+            "changeTime": 1533464327535,
+            "contentHash": "ff67cb1c4f02767ba04f4ab5ce9fffa2ddda00f8",
             "isMetadataFile": false,
-            "size": 128,
-            "modifiedTime": 1533387989681,
-            "changeTime": 1533387989681,
-            "contentHash": "c956b66dcae11246bdd354fe3a04be1dbfe521c5"
+            "state": "u"
         }
     ],
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/objects/Account",
         {
-            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/objects/Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1533387989701,
             "changeTime": 1533387989701,
-            "contentHash": "7e07eb8f1af457f56a1101d84cb8d06e8249b6d6"
+            "contentHash": "7e07eb8f1af457f56a1101d84cb8d06e8249b6d6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1533387989705,
             "changeTime": 1533387989705,
-            "contentHash": "3879cd1a87b9b86866459d67b834d6fd51985bfe"
+            "contentHash": "3879cd1a87b9b86866459d67b834d6fd51985bfe",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/flexipages",
         {
-            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/flexipages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1533387989712,
             "changeTime": 1533387989712,
-            "contentHash": "93892784947c4c318ee6dabdf6c863b9a0b93480"
+            "contentHash": "93892784947c4c318ee6dabdf6c863b9a0b93480",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/NewAddress/NewAddress.design",
+        {
+            "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/NewAddress/NewAddress.design",
+            "isDirectory": false,
+            "size": 129,
+            "modifiedTime": 1533462623839,
+            "changeTime": 1533462623839,
+            "contentHash": "808cebc359009bc097f69222612a3c538f897d2c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/NewAddress/NewAddressController.js",
+        {
+            "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/NewAddress/NewAddressController.js",
+            "isDirectory": false,
+            "size": 103,
+            "modifiedTime": 1533464327534,
+            "changeTime": 1533464327534,
+            "contentHash": "9e44a1df04af3b59c252681b82e722cf193bd600",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
