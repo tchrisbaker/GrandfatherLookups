@@ -1,0 +1,10 @@
+
+Todo:
+  ☐ Item
+
+  ☐ Male "NewAddress" comp hide/show when Insert new address is selected and saved
+  ☐ if a new addrses is entered then show the new service location box
+  ☐ if a address is selected show a list of available service locations
+  ☐ give opetion for a new service location dialog box
+  ☐ make service connect to the service location selected
+  
