@@ -6,7 +6,9 @@
       // set param to method  
         action.setParams({
             'searchKeyWord': getInputkeyWord,
-            'ObjectName' : component.get("v.objectAPIName")
+            'ObjectName' : component.get("v.objectAPIName"),
+            'parentField' : component.get("v.parentField"),
+            'parentId' : component.get ('v.parentId')
           });
       // set a callBack    
         action.setCallback(this, function(response) {

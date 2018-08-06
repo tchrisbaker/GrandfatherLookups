@@ -47,10 +47,10 @@
         {
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 352,
-            "modifiedTime": 1533387989680,
-            "changeTime": 1533387989680,
-            "contentHash": "17664c3d0477b875576ec08e1c25e51dbd9db207",
+            "size": 384,
+            "modifiedTime": 1533588105304,
+            "changeTime": 1533588105304,
+            "contentHash": "b5e5877eb82faf31e49d82981a38a3d8ab4fba02",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -418,10 +418,10 @@
         {
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location",
             "isDirectory": true,
-            "size": 384,
-            "modifiedTime": 1533334995276,
-            "changeTime": 1533334995276,
-            "contentHash": "9bec2a3490e72d5efb1f6c89bda749889fdc6d53",
+            "size": 416,
+            "modifiedTime": 1533464614785,
+            "changeTime": 1533464614785,
+            "contentHash": "1d70994690b02d9405fabfc7a13e3037e0525547",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": true
@@ -495,14 +495,14 @@
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/classes/CustomLookUpController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/classes/CustomLookUpController.cls",
             "isDirectory": false,
+            "size": 1142,
+            "modifiedTime": 1533587634068,
+            "changeTime": 1533587634068,
+            "contentHash": "508c34509f2bd1961641ec037dbcf619cbf9ef67",
             "isMetadataFile": false,
-            "size": 770,
-            "modifiedTime": 1533464346242,
-            "changeTime": 1533464346242,
-            "contentHash": "7bf8338b5695eed8f88660b1606ead7137bf0f2c"
+            "state": "u"
         }
     ],
     [
@@ -536,10 +536,10 @@
         {
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/CustomLookupResult/CustomLookupResult.cmp",
             "isDirectory": false,
-            "size": 1348,
-            "modifiedTime": 1533385965737,
-            "changeTime": 1533385965737,
-            "contentHash": "75515fddcf7caf905d14f5123cc7412e01e6b098",
+            "size": 1319,
+            "modifiedTime": 1533582384019,
+            "changeTime": 1533582384019,
+            "contentHash": "8e06706d49506c1b9d8e38718df35c1c371d4e8a",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -666,10 +666,10 @@
         {
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/TestLookup/TestLookup.app",
             "isDirectory": false,
-            "size": 581,
-            "modifiedTime": 1533464327540,
-            "changeTime": 1533464327540,
-            "contentHash": "388ea0a57eebd438ca3690dca6bafb7c695d092c",
+            "size": 380,
+            "modifiedTime": 1533585839442,
+            "changeTime": 1533582458928,
+            "contentHash": "b95961d0dfb094f058ecd62295c77a6716a128f9",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -783,10 +783,10 @@
         {
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/customLookup/customLookup.cmp",
             "isDirectory": false,
-            "size": 3882,
-            "modifiedTime": 1533385945023,
-            "changeTime": 1533385945023,
-            "contentHash": "80b5636bef50803a2ae0e8000b38cb95450506fb",
+            "size": 4081,
+            "modifiedTime": 1533588209095,
+            "changeTime": 1533588209095,
+            "contentHash": "d96e56ae204d5a1d446174e96da459b8cc8b62f7",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -822,10 +822,10 @@
         {
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/customLookup/customLookup.design",
             "isDirectory": false,
-            "size": 40,
-            "modifiedTime": 1533327218898,
-            "changeTime": 1533327218898,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "size": 41,
+            "modifiedTime": 1533588164001,
+            "changeTime": 1533588164001,
+            "contentHash": "a601a3193794b2d90dd17ef8e9331634e2e1cb03",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -861,10 +861,10 @@
         {
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/customLookup/customLookupHelper.js",
             "isDirectory": false,
-            "size": 1213,
-            "modifiedTime": 1533381174076,
-            "changeTime": 1533381174076,
-            "contentHash": "8fed9225c037ce342e874d56a3724ba6340fed6d",
+            "size": 1328,
+            "modifiedTime": 1533587708899,
+            "changeTime": 1533587708899,
+            "contentHash": "e9cadeec16abeeba9e1f3372bc03ec86095d9d18",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1303,10 +1303,10 @@
         {
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/NewAddress/NewAddress.cmp",
             "isDirectory": false,
-            "size": 1741,
-            "modifiedTime": 1533464327535,
-            "changeTime": 1533464327535,
-            "contentHash": "a280c61dd8a145cc61c0c2e38ef5e4c0209653bd",
+            "size": 1556,
+            "modifiedTime": 1533589551784,
+            "changeTime": 1533589551784,
+            "contentHash": "fb579f42ffe94658b99eb0f1125730ffb399b8b3",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1437,6 +1437,136 @@
             "modifiedTime": 1533464327534,
             "changeTime": 1533464327534,
             "contentHash": "9e44a1df04af3b59c252681b82e722cf193bd600",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp",
+        {
+            "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1533588105312,
+            "changeTime": 1533588105312,
+            "contentHash": "7153c59ab2d2afa4e799e8de4041500718fb4c2e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.auradoc",
+        {
+            "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1533588105311,
+            "changeTime": 1533588105311,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 809,
+            "modifiedTime": 1533589740845,
+            "changeTime": 1533589740845,
+            "contentHash": "3bd68324bed674db039d11fd391df653fa571cc2"
+        }
+    ],
+    [
+        "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 254,
+            "modifiedTime": 1533588105305,
+            "changeTime": 1533588105305,
+            "contentHash": "a613cd123a63882c663dcc75cc8f660bb0ae1550",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.css",
+        {
+            "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1533588105306,
+            "changeTime": 1533588105306,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.design",
+        {
+            "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.design",
+            "isDirectory": false,
+            "size": 164,
+            "modifiedTime": 1533588158033,
+            "changeTime": 1533588158033,
+            "contentHash": "8b13ad5984d4eddbed306100c8abed38548cf452",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.svg",
+        {
+            "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1533588105311,
+            "changeTime": 1533588105311,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmpController.js",
+        {
+            "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmpController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1533588105305,
+            "changeTime": 1533588105305,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmpHelper.js",
+        {
+            "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmpHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1533588105306,
+            "changeTime": 1533588105306,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmpRenderer.js",
+        {
+            "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmpRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1533588105310,
+            "changeTime": 1533588105310,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
             "state": "u"
         }
