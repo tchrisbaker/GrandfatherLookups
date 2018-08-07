@@ -332,10 +332,10 @@
         {
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.cmp",
             "isDirectory": false,
-            "size": 1182,
-            "modifiedTime": 1533610194750,
-            "changeTime": 1533610194750,
-            "contentHash": "c2389803bcb01b63ab360c7f069557e7bb696e22",
+            "size": 1193,
+            "modifiedTime": 1533612975984,
+            "changeTime": 1533612975984,
+            "contentHash": "5034c52534428351821f36507e6edf6b530e9674",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -976,7 +976,7 @@
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/customLookup/customLookupHelper.js",
             "isDirectory": false,
             "size": 1390,
-            "modifiedTime": 1533611187881,
+            "modifiedTime": 1533613137732,
             "changeTime": 1533611187881,
             "contentHash": "61a4fa2a45c6bb063409d42b3f8a1a3e36dfa39a",
             "isMetadataFile": false,
@@ -1081,11 +1081,11 @@
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/classes/CustomLookUpController.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 2323,
-            "modifiedTime": 1533612487297,
-            "changeTime": 1533612487297,
+            "size": 2374,
+            "modifiedTime": 1533613196290,
+            "changeTime": 1533613196290,
             "isWorkspace": false,
-            "contentHash": "6661f85d3b11907c12f053333e0c44d7a8678e22"
+            "contentHash": "0f2d131f7e6a53224791d2ed9664880a9e4c166f"
         }
     ],
     [

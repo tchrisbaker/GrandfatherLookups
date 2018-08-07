@@ -330,15 +330,15 @@
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.cmp",
             "isDirectory": false,
-            "size": 1182,
-            "modifiedTime": 1533610194750,
-            "changeTime": 1533610194750,
-            "contentHash": "c2389803bcb01b63ab360c7f069557e7bb696e22",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 1182,
+            "modifiedTime": 1533613302455,
+            "changeTime": 1533613302455,
+            "isWorkspace": false,
+            "contentHash": "c2389803bcb01b63ab360c7f069557e7bb696e22"
         }
     ],
     [
@@ -976,7 +976,7 @@
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/customLookup/customLookupHelper.js",
             "isDirectory": false,
             "size": 1390,
-            "modifiedTime": 1533611187881,
+            "modifiedTime": 1533613137732,
             "changeTime": 1533611187881,
             "contentHash": "61a4fa2a45c6bb063409d42b3f8a1a3e36dfa39a",
             "isMetadataFile": false,
@@ -1077,15 +1077,15 @@
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/classes/CustomLookUpController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/classes/CustomLookUpController.cls",
             "isDirectory": false,
+            "size": 2374,
+            "modifiedTime": 1533613196290,
+            "changeTime": 1533613196290,
+            "contentHash": "0f2d131f7e6a53224791d2ed9664880a9e4c166f",
             "isMetadataFile": false,
-            "size": 2336,
-            "modifiedTime": 1533612585641,
-            "changeTime": 1533612585641,
-            "isWorkspace": false,
-            "contentHash": "0f955c8f87a8f3a0b6f05fd5c659deabb6756ffb"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
