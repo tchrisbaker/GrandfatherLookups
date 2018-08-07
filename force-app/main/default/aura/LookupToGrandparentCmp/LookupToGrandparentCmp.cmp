@@ -3,12 +3,14 @@
     <aura:attribute name="IconName" type="string" default="standard:account"/>
     <aura:attribute name="label" type="string" default="Location Name"/>
     <aura:attribute name="recordByEvent1" type = "string" />
+    <aura:attribute name="parentId" type="string" />
     <aura:handler name="oSelectedRecordEvent" event="c:SelectedsObjectRecordEvent" action="{!c.handleApplicationEvent}"/>
 
     <lightning:card iconName="standard:account" footer="" title="Select Location">
-        <c:customLookup  aura:id="lookup1" objectAPIName="{!v.objectAPIName}" IconName="{!v.IconName}" label="{!v.label}" />
+        <c:customLookup  aura:id="lookup1" fieldsToDisplay="Name" objectAPIName="{!v.objectAPIName}" IconName="{!v.IconName}" label="{!v.label}" />
+ 
         <!-- <c:NewAddress /> -->
-        <c:customLookup  aura:id="lookup2" objectAPIName="Service_Location__c" parentField="Address__c" parentId="{!v.parentId}" IconName="{!v.IconName}" label="Service Location" />
+        <c:customLookup  aura:id="lookup2" fieldsToDisplay="Name" objectAPIName="Service_Location__c" parentField="Address__c" parentId="{!v.parentId}" IconName="{!v.IconName}" label="Service Location" />
 
     </lightning:card>
 </aura:component>	

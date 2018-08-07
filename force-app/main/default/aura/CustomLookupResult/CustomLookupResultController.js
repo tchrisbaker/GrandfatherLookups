@@ -10,4 +10,15 @@
           console.log("fire event oSelectedRecordEvent");
           compEvent.fire();
      },
+     doInit: function(component){
+      /*var fields = component.get("v.fieldsToDisplay");
+      console.log('fields ' + fields);
+      var fullname = "";
+      var i;
+      for (i = 0; i < fields.length; i++) { 
+        fullname += fields[i] + " - ";
+      }
+      console.log('fullname ' + fullname);
+      component.set('v.fullname');*/
+    }
  })

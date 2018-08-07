@@ -8,7 +8,8 @@
             'searchKeyWord': getInputkeyWord,
             'ObjectName' : component.get("v.objectAPIName"),
             'parentField' : component.get("v.parentField"),
-            'parentId' : component.get ('v.parentId')
+            'parentId' : component.get ('v.parentId'),
+            'fieldList' : component.get('v.fieldsToDisplay')
           });
       // set a callBack    
         action.setCallback(this, function(response) {

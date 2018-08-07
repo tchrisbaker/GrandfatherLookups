@@ -10,7 +10,7 @@
     <aura:attribute name="InsertNew" type="Object" />
     <aura:attribute name="parentId" type = "String" />
     <aura:attribute name="parentField" type = "String" />
-    <aura:attribute name="jsonArray" type="Object[]" />
+    <aura:attribute name="fieldsToDisplay" type="String[]" default="Name"/>
     <!--declare events hendlers-->
     <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
     <aura:handler name="oSelectedRecordEvent" event="c:SelectedsObjectRecordEvent" action="{!c.handleComponentEvent}"/>
