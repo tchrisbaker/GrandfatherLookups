@@ -1,7 +1,9 @@
 <design:component >
     <design:attribute name="parentObjectAPIName" description="parent object name" />
     <design:attribute name="childObjectAPIName" description="child object name" />
-    <design:attribute name="parentFieldToDisplay" description="parent field to display in the list of records" />    
+    <design:attribute name="childLookup" description="The child's lookup field" />
+    <design:attribute name="parentFieldToDisplay" description="parent field to display in the list of records" />   
+    <design:attribute name="recordToUpdateAPIName" description="the object to update" />    
     <design:attribute name="childFieldToDisplay"  description="child field to display in the list of records"/>
     <design:attribute name="parentFIeld"  description="lookup to parent example: AccountId on Contact"/>
     <design:attribute name="IconName" />

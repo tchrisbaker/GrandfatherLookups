@@ -2,7 +2,9 @@
     <aura:attribute name="objectAPIName" type="string" default="Address__c"/>
     <aura:attribute name="parentObjectAPIName" type="string" default="Address__c"/>
     <aura:attribute name="childObjectAPIName" type="string" default="Address__c"/>
-    <aura:attribute name="parentFIeld" type="string" default="AccountId" />
+    <aura:attribute name="recordToUpdateAPIName" type="string" default="Address__c"/>
+    <aura:attribute name="parentFIeld" type="string" default="ParentId" />
+    <aura:attribute name="childLookup" type="string" default="AccountId" />
     <aura:attribute name="parentLabel" type="string" default="Address__c"/>
     <aura:attribute name="childLabel" type="string" default="Address__c"/>
     <aura:attribute name="IconName" type="string" default="standard:account"/>

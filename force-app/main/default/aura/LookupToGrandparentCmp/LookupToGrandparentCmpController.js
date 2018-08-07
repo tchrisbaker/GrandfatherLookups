@@ -18,8 +18,9 @@
             var action = component.get("c.SaveRecord");
              // set param to method  
              action.setParams({
+                'objName' : component.get('v.recordToUpdateAPIName'),
                 'recordId': component.get("v.recordId"),
-                'lookupField' : 'AccountId',
+                'lookupField' : component.get("v.childLookup"),
                 'lookupId' : recordByEvent.Id               
             });
             // set a callBack    

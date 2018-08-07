@@ -52,11 +52,11 @@ public class CustomLookUpController {
         return itemsToReturn;
     }
 
-    @AuraEnabled public static void SaveRecord (string recordId, string lookupField, string lookupId ) {
+    @AuraEnabled public static void SaveRecord (string objName, string recordId, string lookupField, string lookupId ) {
         system.debug('recordId ' + recordId);
         system.debug('lookupField ' + lookupField);
         system.debug('lookupId ' + lookupId);
-        sObject record = Schema.getGlobalDescribe().get('Contact').newSObject() ;
+        sObject record = Schema.getGlobalDescribe().get(objName).newSObject() ;
         record.put('Id', (Id) recordId);
         record.put(lookupField, (Id) lookupId);
         system.debug('record = ' + record);
