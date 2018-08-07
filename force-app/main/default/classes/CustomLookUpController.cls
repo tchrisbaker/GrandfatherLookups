@@ -1,7 +1,7 @@
  
 public class CustomLookUpController {
     @AuraEnabled
-    public static /*List < LookupItem >*/ List <sObject> fetchLookUpValues(String searchKeyWord, String ObjectName, String parentField, String parentId, String [] fieldList) {
+    public static List < LookupItem > /*List <sObject>*/  fetchLookUpValues(String searchKeyWord, String ObjectName, String parentField, String parentId, String [] fieldList) {
         system.debug('ObjectName-->' + ObjectName);
         system.debug('parentField-->' + parentField);
         system.debug('parentId-->' + parentId);
@@ -21,7 +21,7 @@ public class CustomLookUpController {
             sQuery += 'WHERE ';
         }
         if (string.isNotBlank(searchKeyword) ) {
-            sQuery += 'Name LIKE :searchKey ' ;
+            sQuery += fieldList[0] + ' LIKE :searchKey ' ;
         }
         if (string.isNotBlank(parentId) && string.IsNotBlank(searchKeyword)) {
             sQuery += 'AND ';
@@ -36,7 +36,7 @@ public class CustomLookUpController {
         for (sObject obj: lstOfRecords) {
             //returnList.add(obj);
             LookupItem i = new LookupItem();
-            i.objId = obj.Id;
+            i.Id = obj.Id;
             //i.objname = obj.get('Name');
             for (string s : fieldList) {
                 i.NameStr += obj.get(s);
@@ -48,12 +48,12 @@ public class CustomLookUpController {
             returnList.add(obj);
         }
         system.debug('itemsToReturn ' + itemsToReturn);
-        return returnList;
-       //return itemsToReturn;
+        //return returnList;
+        return itemsToReturn;
     }
      
     public class LookupItem {
-        @AuraEnabled public string objId;
+        @AuraEnabled public string Id;
         @AuraEnabled public string objname;
         @AuraEnabled public string NameStr;
         LookupItem() {

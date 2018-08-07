@@ -61,11 +61,19 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Service_Location__c.NameFormula__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Service_Location__c.Room__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <layoutAssignments>
         <layout>Address__c-Address Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Service_Location__c-Service Location Layout</layout>
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>

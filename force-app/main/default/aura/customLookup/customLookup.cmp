@@ -1,6 +1,6 @@
 <aura:component controller="CustomLookUpController" implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global">
     <!--declare attributes-->
-    <aura:attribute name="selectedRecord" type="sObject" default="{}" description="Use,for store SELECTED sObject Record"/>
+    <aura:attribute name="selectedRecord" type="Object" default="{}" description="Use,for store SELECTED sObject Record"/>
     <aura:attribute name="listOfSearchRecords" type="List" description="Use,for store the list of search records which returns from apex class"/>
     <aura:attribute name="SearchKeyWord" type="string"/>
     <aura:attribute name="objectAPIName" type="string" default="Address__c"/>
@@ -28,7 +28,7 @@
 
                     <!-- This markup is for when an record is selected -->
                     <div aura:id="lookup-pill" class="slds-pill-container slds-hide">
-                        <lightning:pill class="pillSize" label="{!v.selectedRecord.Name}" name="{!v.selectedRecord.Name}" onremove="{! c.clear }">
+                        <lightning:pill class="pillSize" label="{!v.selectedRecord.NameStr}" name="{!v.selectedRecord.NameStr}" onremove="{! c.clear }">
                             <aura:set attribute="media">
                                 <lightning:icon iconName="{!v.IconName}" size="x-small" alternativeText="{!v.IconName}"/>
                             </aura:set>
