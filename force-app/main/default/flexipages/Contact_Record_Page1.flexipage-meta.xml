@@ -14,16 +14,10 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
-            <componentName>cooper:companyInsightTeaserCard</componentName>
-        </componentInstances>
-        <componentInstances>
             <componentName>runtime_sales_merge:mergeCandidatesPreviewCard</componentName>
         </componentInstances>
         <componentInstances>
             <componentName>force:relatedListContainer</componentName>
-        </componentInstances>
-        <componentInstances>
-            <componentName>NewAddress</componentName>
         </componentInstances>
         <mode>Replace</mode>
         <name>relatedTabContent</name>
@@ -43,17 +37,6 @@
         </componentInstances>
         <mode>Replace</mode>
         <name>newsTabContent</name>
-        <type>Facet</type>
-    </flexiPageRegions>
-    <flexiPageRegions>
-        <componentInstances>
-            <componentInstanceProperties>
-                <name>numberOfColumns</name>
-                <value>2</value>
-            </componentInstanceProperties>
-            <componentName>NewAddress</componentName>
-        </componentInstances>
-        <name>Facet-b67f9c46-86e2-4c86-aaa2-7188f7b4fd5c</name>
         <type>Facet</type>
     </flexiPageRegions>
     <flexiPageRegions>
@@ -94,17 +77,6 @@
             </componentInstanceProperties>
             <componentName>flexipage:tab</componentName>
         </componentInstances>
-        <componentInstances>
-            <componentInstanceProperties>
-                <name>body</name>
-                <value>Facet-b67f9c46-86e2-4c86-aaa2-7188f7b4fd5c</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>title</name>
-                <value>Custom Details</value>
-            </componentInstanceProperties>
-            <componentName>flexipage:tab</componentName>
-        </componentInstances>
         <mode>Replace</mode>
         <name>maintabs</name>
         <type>Facet</type>
@@ -123,41 +95,6 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
-            <componentInstanceProperties>
-                <name>IconName</name>
-                <value>standard:account</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>childFieldToDisplay</name>
-                <value>NameFormula__c</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>childLabel</name>
-                <value>Service Location</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>childObjectAPIName</name>
-                <value>Service_Location__c</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>parentFIeld</name>
-                <value>Address__c</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>parentFieldToDisplay</name>
-                <value>Name</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>parentLabel</name>
-                <value>Address</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>parentObjectAPIName</name>
-                <value>Address__c</value>
-            </componentInstanceProperties>
-            <componentName>LookupToGrandparentCmp</componentName>
-        </componentInstances>
-        <componentInstances>
             <componentName>runtime_sales_activities:activityPanel</componentName>
         </componentInstances>
         <mode>Replace</mode>
@@ -165,13 +102,6 @@
         <type>Facet</type>
     </flexiPageRegions>
     <flexiPageRegions>
-        <componentInstances>
-            <componentInstanceProperties>
-                <name>IconName</name>
-                <value>standard:account</value>
-            </componentInstanceProperties>
-            <componentName>LookupToGrandparentCmp</componentName>
-        </componentInstances>
         <componentInstances>
             <componentName>forceChatter:recordFeedContainer</componentName>
         </componentInstances>
@@ -213,6 +143,41 @@
     <flexiPageRegions>
         <componentInstances>
             <componentInstanceProperties>
+                <name>IconName</name>
+                <value>standard:account</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>childFieldToDisplay</name>
+                <value>Name</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>childLabel</name>
+                <value>Child Accounts</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>childObjectAPIName</name>
+                <value>Account</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>parentFIeld</name>
+                <value>ParentId</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>parentFieldToDisplay</name>
+                <value>Name</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>parentLabel</name>
+                <value>Account</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>parentObjectAPIName</name>
+                <value>Account</value>
+            </componentInstanceProperties>
+            <componentName>LookupToGrandparentCmp</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentInstanceProperties>
                 <name>tabs</name>
                 <value>sidebartabs</value>
             </componentInstanceProperties>
@@ -222,9 +187,9 @@
         <name>sidebar</name>
         <type>Region</type>
     </flexiPageRegions>
-    <masterLabel>Account Record Page</masterLabel>
-    <parentFlexiPage>sfa__Account_rec_L</parentFlexiPage>
-    <sobjectType>Account</sobjectType>
+    <masterLabel>Contact Record Page</masterLabel>
+    <parentFlexiPage>sfa__Contact_rec_L</parentFlexiPage>
+    <sobjectType>Contact</sobjectType>
     <template>
         <name>flexipage:recordHomeTemplateDesktop</name>
     </template>

@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>NameFormula__c</fullName>
     <externalId>false</externalId>
-    <formula>Address__r.Name &amp; &quot; &quot; &amp; &quot; &quot; &amp; Floor__c</formula>
+    <formula>&quot;Floor &quot; &amp; Floor__c &amp; &quot; Room &quot; &amp;  Room__c</formula>
     <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
     <label>NameFormula</label>
     <required>false</required>

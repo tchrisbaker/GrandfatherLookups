@@ -332,10 +332,10 @@
         {
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.cmp",
             "isDirectory": false,
-            "size": 1209,
-            "modifiedTime": 1533616062367,
-            "changeTime": 1533616062367,
-            "contentHash": "decf17f3ef0bbfc9ee0e491aee282948bcc69d7c",
+            "size": 1794,
+            "modifiedTime": 1533653148310,
+            "changeTime": 1533653148310,
+            "contentHash": "66441a8b44051d0db0454edc28fad6a2cb390c66",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -376,14 +376,13 @@
         {
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.design",
             "isDirectory": false,
-            "size": 164,
-            "modifiedTime": 1533588158033,
-            "changeTime": 1533588158033,
-            "contentHash": "8b13ad5984d4eddbed306100c8abed38548cf452",
+            "size": 748,
+            "modifiedTime": 1533653206349,
+            "changeTime": 1533653206349,
+            "contentHash": "a27796e4cf817d29ae3f6fcb88353f61d6aae8dd",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -1135,16 +1134,14 @@
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/flexipages",
         {
+            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/flexipages",
             "isDirectory": true,
-            "size": 128,
-            "modifiedTime": 1533606972364,
-            "changeTime": 1533606972364,
-            "contentHash": "93892784947c4c318ee6dabdf6c863b9a0b93480",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 192,
+            "modifiedTime": 1533653954354,
+            "changeTime": 1533653954354,
+            "contentHash": "9fe2910a15e87e4228f8cf438f3825b555d94107"
         }
     ],
     [
@@ -1165,16 +1162,14 @@
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/flexipages/Account_Record_Page1.flexipage-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/flexipages/Account_Record_Page1.flexipage-meta.xml",
             "isDirectory": false,
-            "size": 8389,
-            "modifiedTime": 1533606972364,
-            "changeTime": 1533606972364,
-            "contentHash": "1c557ae821f5db757ffbef17852636bc3609c18f",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 8936,
+            "modifiedTime": 1533653954351,
+            "changeTime": 1533653954351,
+            "contentHash": "6582059d078f9226b749e954c661a9d54939fc04"
         }
     ],
     [
@@ -1221,16 +1216,14 @@
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/objects",
         {
+            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/objects",
             "isDirectory": true,
-            "size": 160,
-            "modifiedTime": 1533387989700,
-            "changeTime": 1533387989700,
-            "contentHash": "16d00e4b80fce6c11304de3e9d897f6cb64b6428",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 192,
+            "modifiedTime": 1533653954333,
+            "changeTime": 1533653954333,
+            "contentHash": "144b8e2657ca86a5d83e0d315c53b65f99e61ede"
         }
     ],
     [
@@ -1766,14 +1759,66 @@
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/objects/Service_Location__c/fields/NameFormula__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/objects/Service_Location__c/fields/NameFormula__c.field-meta.xml",
             "isDirectory": false,
-            "size": 498,
-            "modifiedTime": 1533614154958,
-            "changeTime": 1533614154958,
-            "contentHash": "390e79e04f623633bedfc056628f486ef450cdaa",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 501,
+            "modifiedTime": 1533653954325,
+            "changeTime": 1533653954325,
+            "contentHash": "b3b80cd8c9e52a998098f1202c41114c4002bd26"
+        }
+    ],
+    [
+        "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/objects/Contact/Contact.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/objects/Contact/Contact.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5120,
+            "modifiedTime": 1533653954334,
+            "changeTime": 1533653954334,
+            "contentHash": "a41054566f8b9eedff13606d06401ecf3d99e555"
+        }
+    ],
+    [
+        "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/flexipages/Contact_Record_Page1.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/flexipages/Contact_Record_Page1.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7475,
+            "modifiedTime": 1533653954338,
+            "changeTime": 1533653954338,
+            "contentHash": "d2980124691cd2835fd26cfdfe1befb3831415dc"
+        }
+    ],
+    [
+        "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7471,
+            "modifiedTime": 1533653954354,
+            "changeTime": 1533653954354,
+            "contentHash": "da0241da0a5f764d78b61e94479a0656558303a8"
+        }
+    ],
+    [
+        "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/objects/Contact",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/objects/Contact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1533653954334,
+            "changeTime": 1533653954334,
+            "contentHash": "661e0d544b605f6d4bf16ac9782ecd625944d391"
         }
     ]
 ]
