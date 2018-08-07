@@ -1,16 +1,23 @@
 <aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction">
     <aura:attribute name="objectAPIName" type="string" default="Address__c"/>
+    <aura:attribute name="parentObjectAPIName" type="string" default="Address__c"/>
+    <aura:attribute name="childObjectAPIName" type="string" default="Address__c"/>
+    <aura:attribute name="parentFIeld" type="string" default="AccountId" />
+    <aura:attribute name="parentLabel" type="string" default="Address__c"/>
+    <aura:attribute name="childLabel" type="string" default="Address__c"/>
     <aura:attribute name="IconName" type="string" default="standard:account"/>
     <aura:attribute name="label" type="string" default="Location Name"/>
+    <aura:attribute name="parentFieldToDisplay" type="string" default="Name" />    
+    <aura:attribute name="childFieldToDisplay"  type="string" default="Name" />
     <aura:attribute name="recordByEvent1" type = "string" />
     <aura:attribute name="parentId" type="string" />
     <aura:handler name="oSelectedRecordEvent" event="c:SelectedsObjectRecordEvent" action="{!c.handleApplicationEvent}"/>
     {!v.recordId}
     <lightning:card iconName="standard:account" footer="" title="Select Location">
-        <c:customLookup  aura:id="lookup1" fieldsToDisplay="Name" objectAPIName="{!v.objectAPIName}" IconName="{!v.IconName}" label="{!v.label}" />
+        <c:customLookup  aura:id="lookup1" fieldsToDisplay="{!v.parentFieldToDisplay}" objectAPIName="{!v.parentObjectAPIName}" IconName="{!v.IconName}" label="{!v.parentLabel}" />
  
-        <!-- <c:NewAddress /> -->
-        <c:customLookup  aura:id="lookup2" fieldsToDisplay="NameFormula__c" objectAPIName="Service_Location__c" parentField="Address__c" parentId="{!v.parentId}" IconName="{!v.IconName}" label="Service Location" />
+        
+        <c:customLookup  aura:id="lookup2" fieldsToDisplay="{!v.childFieldToDisplay}" objectAPIName="{!v.childObjectAPIName}" parentField="{!v.parentFIeld}" parentId="{!v.parentId}" IconName="{!v.IconName}" label="{!v.childLabel}" />
 
     </lightning:card>
 </aura:component>	

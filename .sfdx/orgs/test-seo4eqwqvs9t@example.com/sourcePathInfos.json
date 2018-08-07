@@ -334,11 +334,11 @@
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1209,
-            "modifiedTime": 1533616062367,
-            "changeTime": 1533616062367,
+            "size": 1794,
+            "modifiedTime": 1533653148310,
+            "changeTime": 1533653148310,
             "isWorkspace": false,
-            "contentHash": "decf17f3ef0bbfc9ee0e491aee282948bcc69d7c"
+            "contentHash": "66441a8b44051d0db0454edc28fad6a2cb390c66"
         }
     ],
     [
@@ -374,16 +374,15 @@
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.design",
         {
+            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.design",
             "isDirectory": false,
-            "size": 164,
-            "modifiedTime": 1533588158033,
-            "changeTime": 1533588158033,
-            "contentHash": "8b13ad5984d4eddbed306100c8abed38548cf452",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 748,
+            "modifiedTime": 1533653206349,
+            "changeTime": 1533653206349,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "a27796e4cf817d29ae3f6fcb88353f61d6aae8dd"
         }
     ],
     [
