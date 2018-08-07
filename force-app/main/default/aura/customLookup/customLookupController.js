@@ -12,7 +12,7 @@
          
          //var newObj = {Name : "xxxxxx"};
          var newObj = {};
-         newObj.Name = "Insert New Address";
+         newObj.NameStr = "Insert New";
          console.log("@@@ " + JSON.stringify(newObj));
          cmp.set("v.InsertNew", newObj);
         

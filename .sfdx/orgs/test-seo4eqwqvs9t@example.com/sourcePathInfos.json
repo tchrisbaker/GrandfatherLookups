@@ -330,15 +330,15 @@
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.cmp",
             "isDirectory": false,
-            "size": 1192,
-            "modifiedTime": 1533614133220,
-            "changeTime": 1533614133220,
-            "contentHash": "12db29c7ec4e72a3f84157428fa7c2d0992b87ab",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 1209,
+            "modifiedTime": 1533616062367,
+            "changeTime": 1533616062367,
+            "isWorkspace": false,
+            "contentHash": "decf17f3ef0bbfc9ee0e491aee282948bcc69d7c"
         }
     ],
     [
@@ -960,10 +960,10 @@
         {
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/customLookup/customLookupController.js",
             "isDirectory": false,
-            "size": 3578,
-            "modifiedTime": 1533615415100,
-            "changeTime": 1533615415100,
-            "contentHash": "f60bf579f8cc14707a9b007d6d60d8177592ec4c",
+            "size": 3573,
+            "modifiedTime": 1533616001394,
+            "changeTime": 1533616001394,
+            "contentHash": "e70474a0e93b1644128ebe2205a8bc75e1613535",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -1076,15 +1076,15 @@
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/classes/CustomLookUpController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/classes/CustomLookUpController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2381,
             "modifiedTime": 1533615676019,
             "changeTime": 1533615676019,
-            "isWorkspace": false,
-            "contentHash": "9487b087324a7d32fc431d02a4525cf52bd1d9e5"
+            "contentHash": "9487b087324a7d32fc431d02a4525cf52bd1d9e5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [

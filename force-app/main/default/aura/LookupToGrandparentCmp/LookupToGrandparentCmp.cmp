@@ -5,7 +5,7 @@
     <aura:attribute name="recordByEvent1" type = "string" />
     <aura:attribute name="parentId" type="string" />
     <aura:handler name="oSelectedRecordEvent" event="c:SelectedsObjectRecordEvent" action="{!c.handleApplicationEvent}"/>
-
+    {!v.recordId}
     <lightning:card iconName="standard:account" footer="" title="Select Location">
         <c:customLookup  aura:id="lookup1" fieldsToDisplay="Name" objectAPIName="{!v.objectAPIName}" IconName="{!v.IconName}" label="{!v.label}" />
  
