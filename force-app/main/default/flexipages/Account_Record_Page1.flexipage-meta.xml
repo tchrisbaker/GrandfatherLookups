@@ -123,6 +123,21 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
+            <componentInstanceProperties>
+                <name>IconName</name>
+                <value>standard:account</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>label</name>
+                <value>Location Name</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>objectAPIName</name>
+                <value>Address__c</value>
+            </componentInstanceProperties>
+            <componentName>LookupToGrandparentCmp</componentName>
+        </componentInstances>
+        <componentInstances>
             <componentName>runtime_sales_activities:activityPanel</componentName>
         </componentInstances>
         <mode>Replace</mode>
@@ -130,6 +145,21 @@
         <type>Facet</type>
     </flexiPageRegions>
     <flexiPageRegions>
+        <componentInstances>
+            <componentInstanceProperties>
+                <name>IconName</name>
+                <value>standard:account</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>label</name>
+                <value>Location Name</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>objectAPIName</name>
+                <value>Address__c</value>
+            </componentInstanceProperties>
+            <componentName>LookupToGrandparentCmp</componentName>
+        </componentInstances>
         <componentInstances>
             <componentName>forceChatter:recordFeedContainer</componentName>
         </componentInstances>

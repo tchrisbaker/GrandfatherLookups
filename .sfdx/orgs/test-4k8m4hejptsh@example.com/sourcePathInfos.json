@@ -1172,16 +1172,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\flexipages\\Account_Record_Page1.flexipage-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\flexipages\\Account_Record_Page1.flexipage-meta.xml",
             "isDirectory": false,
-            "size": 7317,
-            "modifiedTime": 1533605713118,
-            "changeTime": 1533605713118,
-            "contentHash": "8c4d7c4ca28d93b3f3e5b58a0b44b5faa6270d9f",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 8389,
+            "modifiedTime": 1533606397733,
+            "changeTime": 1533606397733,
+            "contentHash": "1c557ae821f5db757ffbef17852636bc3609c18f"
         }
     ],
     [
@@ -1652,66 +1650,66 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 20715,
             "modifiedTime": 1533606251048,
             "changeTime": 1533606251048,
-            "contentHash": "eb246b4c4f6e8cea9c42216d432d661867bc5e22"
+            "contentHash": "eb246b4c4f6e8cea9c42216d432d661867bc5e22",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6625,
             "modifiedTime": 1533606251001,
             "changeTime": 1533606251001,
-            "contentHash": "afc672d0b1854cc123e9a46151ff93685d285ca9"
+            "contentHash": "afc672d0b1854cc123e9a46151ff93685d285ca9",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6625,
             "modifiedTime": 1533606251013,
             "changeTime": 1533606251013,
-            "contentHash": "afc672d0b1854cc123e9a46151ff93685d285ca9"
+            "contentHash": "afc672d0b1854cc123e9a46151ff93685d285ca9",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6963,
             "modifiedTime": 1533606251070,
             "changeTime": 1533606251070,
-            "contentHash": "4f57c10244b66e25f51689d9e8074b830faf9c22"
+            "contentHash": "4f57c10244b66e25f51689d9e8074b830faf9c22",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\tabs",
         {
-            "state": "u",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1533606250987,
             "changeTime": 1533606250987,
-            "contentHash": "8145f6e55f61a4f186688eb091df0451ede51096"
+            "contentHash": "8145f6e55f61a4f186688eb091df0451ede51096",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1747,14 +1745,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\tabs\\Service_Location__c.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\tabs\\Service_Location__c.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 222,
             "modifiedTime": 1533606250988,
             "changeTime": 1533606250988,
-            "contentHash": "e6d3ceb7c99eb8a50672ce743ff76440c6fcc5a6"
+            "contentHash": "e6d3ceb7c99eb8a50672ce743ff76440c6fcc5a6",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
