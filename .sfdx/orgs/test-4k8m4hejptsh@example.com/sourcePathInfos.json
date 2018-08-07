@@ -1172,29 +1172,27 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\flexipages\\Account_Record_Page1.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\flexipages\\Account_Record_Page1.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 8389,
             "modifiedTime": 1533606397733,
             "changeTime": 1533606397733,
-            "contentHash": "1c557ae821f5db757ffbef17852636bc3609c18f"
+            "contentHash": "1c557ae821f5db757ffbef17852636bc3609c18f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\layouts",
         {
+            "state": "u",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1533605713119,
-            "changeTime": 1533605713119,
-            "contentHash": "3879cd1a87b9b86866459d67b834d6fd51985bfe",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 0,
+            "modifiedTime": 1533606763974,
+            "changeTime": 1533606763974,
+            "contentHash": "4a81a1832a0f9f0181adeb3f66e2fc5e24975738"
         }
     ],
     [
@@ -1753,6 +1751,19 @@
             "contentHash": "e6d3ceb7c99eb8a50672ce743ff76440c6fcc5a6",
             "isMetadataFile": true,
             "state": "u"
+        }
+    ],
+    [
+        "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\layouts\\Service_Location__c-Service Location Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\layouts\\Service_Location__c-Service Location Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2914,
+            "modifiedTime": 1533606763975,
+            "changeTime": 1533606763975,
+            "contentHash": "76d29517d367df80babd82649b8785bb25b0a033"
         }
     ]
 ]
