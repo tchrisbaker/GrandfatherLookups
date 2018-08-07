@@ -11,6 +11,8 @@
     <aura:attribute name="parentId" type = "String" />
     <aura:attribute name="parentField" type = "String" />
     <aura:attribute name="fieldsToDisplay" type="String[]" default="Name"/>
+    <aura:attribute name="isLookupOne" type="boolean" />
+
     <!--declare events hendlers-->
     <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
     <aura:handler name="oSelectedRecordEvent" event="c:SelectedsObjectRecordEvent" action="{!c.handleComponentEvent}"/>
@@ -51,7 +53,7 @@
                 <center> {!v.Message}</center>
                 <c:CustomLookupResult oRecord="{!v.InsertNew}" IconName="{!v.IconName}"/>
                 <aura:iteration items="{!v.listOfSearchRecords}" var="singleRec">
-                    <c:CustomLookupResult oRecord="{!singleRec}" IconName="{!v.IconName}"/>
+                    <c:CustomLookupResult isLookupOne="{!v.isLookupOne}" oRecord="{!singleRec}" IconName="{!v.IconName}"/>
                 </aura:iteration>
             </ul>
         </div>

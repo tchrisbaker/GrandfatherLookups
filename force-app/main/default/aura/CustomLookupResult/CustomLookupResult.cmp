@@ -3,6 +3,8 @@
     <aura:attribute name="IconName" type="string"/>
     <aura:attribute name="fieldsToDisplay" type="String[]" default="Name"/>
     <aura:attribute name="fullname" type ="String" default="Name" />
+    <aura:attribute name="isLookupOne" type="boolean" />
+    
     <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
 
     <!--Register the component level event-->

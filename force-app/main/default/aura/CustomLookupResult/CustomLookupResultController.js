@@ -4,21 +4,19 @@
        var getSelectRecord = component.get("v.oRecord");
      // call the event   
        var compEvent = component.getEvent("oSelectedRecordEvent");
-     // set the Selected sObject Record to the event attribute.  
-          compEvent.setParams({"recordByEvent" : getSelectRecord });  
+       isLookupOne
+      var isLookupOne = component.get("v.isLookupOne") ;
+      console.log("$$isLookupOne " + isLookupOne);
+      //setParams({"addDate" : dateStr, "addTime" : addTimeStr}); 
+          compEvent.setParams(
+            {"recordByEvent" : getSelectRecord, "isLookupOne" : isLookupOne }
+          ); 
+
      // fire the event  
           console.log("fire event oSelectedRecordEvent");
           compEvent.fire();
      },
      doInit: function(component){
-      /*var fields = component.get("v.fieldsToDisplay");
-      console.log('fields ' + fields);
-      var fullname = "";
-      var i;
-      for (i = 0; i < fields.length; i++) { 
-        fullname += fields[i] + " - ";
-      }
-      console.log('fullname ' + fullname);
-      component.set('v.fullname');*/
+     
     }
  })

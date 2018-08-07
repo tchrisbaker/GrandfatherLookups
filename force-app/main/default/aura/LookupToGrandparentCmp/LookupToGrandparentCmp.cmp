@@ -1,4 +1,4 @@
-<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction">
+<aura:component controller="CustomLookUpController" implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction">
     <aura:attribute name="objectAPIName" type="string" default="Address__c"/>
     <aura:attribute name="parentObjectAPIName" type="string" default="Address__c"/>
     <aura:attribute name="childObjectAPIName" type="string" default="Address__c"/>
@@ -11,13 +11,17 @@
     <aura:attribute name="childFieldToDisplay"  type="string" default="Name" />
     <aura:attribute name="recordByEvent1" type = "string" />
     <aura:attribute name="parentId" type="string" />
+    <aura:attribute name="childId" type="string" />
     <aura:handler name="oSelectedRecordEvent" event="c:SelectedsObjectRecordEvent" action="{!c.handleApplicationEvent}"/>
-    {!v.recordId}
-    <lightning:card iconName="standard:account" footer="" title="Select Location">
-        <c:customLookup  aura:id="lookup1" fieldsToDisplay="{!v.parentFieldToDisplay}" objectAPIName="{!v.parentObjectAPIName}" IconName="{!v.IconName}" label="{!v.parentLabel}" />
- 
-        
-        <c:customLookup  aura:id="lookup2" fieldsToDisplay="{!v.childFieldToDisplay}" objectAPIName="{!v.childObjectAPIName}" parentField="{!v.parentFIeld}" parentId="{!v.parentId}" IconName="{!v.IconName}" label="{!v.childLabel}" />
+    
+    <!--{!v.recordId}-->
 
+    <lightning:card iconName="standard:account" footer="" title="Select Location">
+        <aura:set attribute="actions">
+                <lightning:button label="Save" title="Save" onclick="{! c.handleSaveClick }"/>
+        </aura:set>
+        <c:customLookup  aura:id="lookup1" isLookupOne="true" fieldsToDisplay="{!v.parentFieldToDisplay}" objectAPIName="{!v.parentObjectAPIName}" IconName="{!v.IconName}" label="{!v.parentLabel}" />         
+        <c:customLookup  aura:id="lookup2" isLookupOne="false" fieldsToDisplay="{!v.childFieldToDisplay}" objectAPIName="{!v.childObjectAPIName}" parentField="{!v.parentFIeld}" parentId="{!v.parentId}" IconName="{!v.IconName}" label="{!v.childLabel}" />
+        
     </lightning:card>
 </aura:component>	
