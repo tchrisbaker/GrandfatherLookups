@@ -20,10 +20,21 @@
 
     <lightning:card iconName="standard:account" footer="" title="Select Location">
         <aura:set attribute="actions">
-                <lightning:button label="Save" title="Save" onclick="{! c.handleSaveClick }"/>
+                <lightning:button  class="slds-hide" aura:id="saveBtn" label="Save" title="Save" onclick="{! c.handleSaveClick }"/>
+                <lightning:button class="slds-show" aura:id="editBtn" label="Edit" title="Edit" onclick="{! c.handleEditClick }"/>
         </aura:set>
-        <c:customLookup  aura:id="lookup1" isLookupOne="true" fieldsToDisplay="{!v.parentFieldToDisplay}" objectAPIName="{!v.parentObjectAPIName}" IconName="{!v.IconName}" label="{!v.parentLabel}" />         
-        <c:customLookup  aura:id="lookup2" isLookupOne="false" fieldsToDisplay="{!v.childFieldToDisplay}" objectAPIName="{!v.childObjectAPIName}" parentField="{!v.parentFIeld}" parentId="{!v.parentId}" IconName="{!v.IconName}" label="{!v.childLabel}" />
-        
+        <div aura:id="lookups" class="slds-hide" >
+            <c:customLookup  aura:id="lookup1" isLookupOne="true" fieldsToDisplay="{!v.parentFieldToDisplay}" objectAPIName="{!v.parentObjectAPIName}" IconName="{!v.IconName}" label="{!v.parentLabel}" />         
+            <c:customLookup  aura:id="lookup2" isLookupOne="false" fieldsToDisplay="{!v.childFieldToDisplay}" objectAPIName="{!v.childObjectAPIName}" parentField="{!v.parentFIeld}" parentId="{!v.parentId}" IconName="{!v.IconName}" label="{!v.childLabel}" />
+        </div>
+        <div aura:id="outputFIelds" class="slds-show"> 
+            <lightning:recordViewForm recordId="{!v.recordId}" objectApiName="{!recordToUpdateAPIName}">
+                <div class="slds-grid slds-grid_align-space slds-box">
+                    <div class="slds-col slds-size_4-of-12 slds-p-horizontal_medium">     
+                        <lightning:outputField fieldName="{!v.childLookup}" variant="label-hidden" />
+                    </div>
+                </div>
+            </lightning:recordViewForm>
+        </div>
     </lightning:card>
 </aura:component>	

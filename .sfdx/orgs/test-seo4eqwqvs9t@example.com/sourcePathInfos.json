@@ -331,10 +331,10 @@
         {
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.cmp",
             "isDirectory": false,
-            "size": 2255,
-            "modifiedTime": 1533662585282,
-            "changeTime": 1533662585282,
-            "contentHash": "1aff903f59e9f660e21714c3df7e7007f3666407",
+            "size": 3018,
+            "modifiedTime": 1533677455204,
+            "changeTime": 1533677455204,
+            "contentHash": "02d41fe63ccc3659a01194900c85e53a804dbcc6",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -406,11 +406,11 @@
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmpController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 2114,
-            "modifiedTime": 1533662694002,
-            "changeTime": 1533662694002,
+            "size": 3631,
+            "modifiedTime": 1533677947541,
+            "changeTime": 1533677947541,
             "isWorkspace": false,
-            "contentHash": "693ab0b39f14b2f44484ae30916be874ec479a23"
+            "contentHash": "e0bc1f52b2c9bee8319588ce42c6d1e9c09a79f6"
         }
     ],
     [

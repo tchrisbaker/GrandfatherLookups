@@ -329,15 +329,15 @@
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.cmp",
             "isDirectory": false,
+            "size": 3018,
+            "modifiedTime": 1533677455204,
+            "changeTime": 1533677455204,
+            "contentHash": "02d41fe63ccc3659a01194900c85e53a804dbcc6",
             "isMetadataFile": false,
-            "size": 2255,
-            "modifiedTime": 1533662585282,
-            "changeTime": 1533662585282,
-            "isWorkspace": false,
-            "contentHash": "1aff903f59e9f660e21714c3df7e7007f3666407"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -373,15 +373,15 @@
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.design",
         {
-            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmp.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 923,
             "modifiedTime": 1533662607655,
             "changeTime": 1533662607655,
-            "isWorkspace": false,
-            "contentHash": "5ee94d85332f6eaa6648f08fbed6e9b0e46e7224"
+            "contentHash": "5ee94d85332f6eaa6648f08fbed6e9b0e46e7224",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -402,15 +402,15 @@
     [
         "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmpController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/cbaker/Documents/SFDX Projects/Location/force-app/main/default/aura/LookupToGrandparentCmp/LookupToGrandparentCmpController.js",
             "isDirectory": false,
-            "size": 2111,
-            "modifiedTime": 1533662386112,
-            "changeTime": 1533662386112,
-            "contentHash": "eb96396612b3e2e44364b7cc09ef8324e451fd13",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 3632,
+            "modifiedTime": 1533677801091,
+            "changeTime": 1533677801091,
+            "isWorkspace": false,
+            "contentHash": "e4e611485310862cec552c8face689171b84f9c3"
         }
     ],
     [

@@ -14,38 +14,55 @@
         else {
             console.log("childId " + recordByEvent.Id);
             component.set("v.childId", recordByEvent.Id);
-            
-            var action = component.get("c.SaveRecord");
-             // set param to method  
-             action.setParams({
-                'objName' : component.get('v.recordToUpdateAPIName'),
-                'recordId': component.get("v.recordId"),
-                'lookupField' : component.get("v.childLookup"),
-                'lookupId' : recordByEvent.Id               
-            });
-            // set a callBack    
-            action.setCallback(this, function(response) {
-                //$A.util.removeClass(component.find("mySpinner"), "slds-show");
-                var state = response.getState();
-                console.log("state " + state);
-                if (state === "SUCCESS") {
-                    
-                  /*  var storeResponse = response.getReturnValue();
-                // if storeResponse size is equal 0 ,display No Result Found... message on screen.                }
-                    if (storeResponse.length == 0) {
-                        component.set("v.Message", 'No Result Found...');
-                    } else {
-                        component.set("v.Message", '');
-                    }
-                    // set searchResult list with return value from server.
-                    component.set("v.listOfSearchRecords", storeResponse);*/
-                }
-    
-            });
-             // enqueue the Action  
-            $A.enqueueAction(action);
         }
     },
-    
-    
+    handleSaveClick : function(component, event) {
+        var action = component.get("c.SaveRecord");
+             // set param to method  
+             action.setParams({
+            'objName' : component.get('v.recordToUpdateAPIName'),
+            'recordId': component.get("v.recordId"),
+            'lookupField' : component.get("v.childLookup"),
+            'lookupId' : component.get("v.childId")
+        });
+        // set a callBack    
+        action.setCallback(this, function(response) {
+            //$A.util.removeClass(component.find("mySpinner"), "slds-show");
+            var state = response.getState();
+            console.log("state " + state);
+            if (state === "SUCCESS") {
+                $A.util.addClass(component.find("saveBtn"), "slds-hide");
+                $A.util.removeClass(component.find("saveBtn"), "slds-show");
+        
+                $A.util.addClass(component.find("editBtn"), "slds-show");
+                $A.util.removeClass(component.find("editBtn"), "slds-hide");
+                
+                $A.util.addClass(component.find("lookups"), "slds-hide");
+                $A.util.removeClass(component.find("lookups"), "slds-show");
+        
+                $A.util.addClass(component.find("outputFIelds"), "slds-show");
+                $A.util.removeClass(component.find("outputFIelds"), "slds-hide");
+            }
+
+        });
+            // enqueue the Action  
+        $A.enqueueAction(action);
+    },
+
+    handleEditClick : function(component, event) {
+
+        $A.util.removeClass(component.find("saveBtn"), "slds-hide");
+        $A.util.addClass(component.find("saveBtn"), "slds-show");
+
+        $A.util.removeClass(component.find("editBtn"), "slds-show");
+        $A.util.addClass(component.find("editBtn"), "slds-hide");
+        
+        $A.util.removeClass(component.find("lookups"), "slds-hide");
+        $A.util.addClass(component.find("lookups"), "slds-show");
+
+        $A.util.removeClass(component.find("outputFIelds"), "slds-show");
+        $A.util.addClass(component.find("outputFIelds"), "slds-hide");
+        
+        
+    }    
 })
