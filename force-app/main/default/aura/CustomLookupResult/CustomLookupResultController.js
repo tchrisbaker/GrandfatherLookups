@@ -7,6 +7,7 @@
      // set the Selected sObject Record to the event attribute.  
           compEvent.setParams({"recordByEvent" : getSelectRecord });  
      // fire the event  
+          console.log("fire event oSelectedRecordEvent");
           compEvent.fire();
      },
  })

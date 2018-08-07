@@ -1,11 +1,14 @@
-<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" >
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction">
     <aura:attribute name="objectAPIName" type="string" default="Address__c"/>
     <aura:attribute name="IconName" type="string" default="standard:account"/>
     <aura:attribute name="label" type="string" default="Location Name"/>
-    <lightning:card  iconName="standard:account" footer="" title="Select Location">
-        <c:customLookup objectAPIName="{!v.objectAPIName}" IconName="{!v.IconName}" label="{!v.label}" />
-      
-        <c:customLookup objectAPIName="Service_Location__c" IconName="{!v.IconName}" label="Service Location" />
-        
+    <aura:attribute name="recordByEvent1" type = "string" />
+    <aura:handler name="oSelectedRecordEvent" event="c:SelectedsObjectRecordEvent" action="{!c.handleApplicationEvent}"/>
+
+    <lightning:card iconName="standard:account" footer="" title="Select Location">
+        <c:customLookup  aura:id="lookup1" objectAPIName="{!v.objectAPIName}" IconName="{!v.IconName}" label="{!v.label}" />
+        <!-- <c:NewAddress /> -->
+        <c:customLookup  aura:id="lookup2" objectAPIName="Service_Location__c" parentField="Address__c" parentId="{!v.parentId}" IconName="{!v.IconName}" label="Service Location" />
+
     </lightning:card>
 </aura:component>	

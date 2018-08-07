@@ -3,6 +3,8 @@ public class CustomLookUpController {
     @AuraEnabled
     public static List < sObject > fetchLookUpValues(String searchKeyWord, String ObjectName, String parentField, String parentId) {
         system.debug('ObjectName-->' + ObjectName);
+        system.debug('parentField-->' + parentField);
+          system.debug('parentId-->' + parentId);
         String searchKey =  '%' + searchKeyWord + '%';
         
         List < sObject > returnList = new List < sObject > ();
