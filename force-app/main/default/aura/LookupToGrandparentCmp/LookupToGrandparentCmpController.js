@@ -43,6 +43,32 @@
                 $A.util.addClass(component.find("outputFIelds"), "slds-show");
                 $A.util.removeClass(component.find("outputFIelds"), "slds-hide");
             }
+            else if (state === "ERROR") {
+                let errors = response.getError();
+               
+                let message = 'Unknown error'; // Default error message
+                // Retrieve the error message sent by the server
+                if (errors && Array.isArray(errors) && errors.length > 0) {
+                    message = errors[0].message;
+                }
+                // Display the message
+                console.error(message);
+                
+                // Configure error toast
+                let toastParams = {
+                    title: "Error",
+                    message: "Unknown error", // Default error message
+                    type: "error"
+                };
+                // Pass the error message if any
+                if (errors && Array.isArray(errors) && errors.length > 0) {
+                    toastParams.message = errors[0].message;
+                }
+                // Fire error toast
+                let toastEvent = $A.get("e.force:showToast");
+                toastEvent.setParams(toastParams);
+                toastEvent.fire();
+            }
 
         });
             // enqueue the Action  

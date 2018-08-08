@@ -2,14 +2,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1533605713086,
             "changeTime": 1533605713086,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1533605713086,
             "changeTime": 1533605713086,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1533605713132,
             "changeTime": 1533605713132,
             "contentHash": "d949af1c49a2c6d0ca268b1ba7bfb665f00af96e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -47,179 +47,28 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1533605713113,
-            "changeTime": 1533605713113,
-            "contentHash": "c1a42081f61645af435a2bb7e1cf5de1dafab9e9",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\contactSaveCmp",
-        {
-            "state": "n",
-            "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\contactSaveCmp",
-            "isDirectory": true,
+            "modifiedTime": 1533696849785,
+            "changeTime": 1533696849785,
+            "contentHash": "bd0c055be828dcfb47ffaf9ad822b2d231868c24",
             "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1533605713109,
-            "changeTime": 1533605713109,
-            "contentHash": "4191ff4b8ddb0823a4683eff39d48013e3cae1aa",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\contactSaveCmp\\contactSaveCmp.auradoc",
-        {
-            "state": "n",
-            "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\contactSaveCmp\\contactSaveCmp.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 214,
-            "modifiedTime": 1533605713105,
-            "changeTime": 1533605713105,
-            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\contactSaveCmp\\contactSaveCmp.cmp",
-        {
-            "state": "n",
-            "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\contactSaveCmp\\contactSaveCmp.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 863,
-            "modifiedTime": 1533605713106,
-            "changeTime": 1533605713106,
-            "contentHash": "31bc90c132dbb2d85a19d2c4b2544ed9ffbe2bf0",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\contactSaveCmp\\contactSaveCmp.cmp-meta.xml",
-        {
-            "state": "n",
-            "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\contactSaveCmp\\contactSaveCmp.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 251,
-            "modifiedTime": 1533605713106,
-            "changeTime": 1533605713106,
-            "contentHash": "7e34ba1dfb80e7aaae3535ed2d3d76b041e663e7",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\contactSaveCmp\\contactSaveCmp.css",
-        {
-            "state": "n",
-            "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\contactSaveCmp\\contactSaveCmp.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 12,
-            "modifiedTime": 1533605713107,
-            "changeTime": 1533605713107,
-            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\contactSaveCmp\\contactSaveCmp.design",
-        {
-            "state": "n",
-            "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\contactSaveCmp\\contactSaveCmp.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 42,
-            "modifiedTime": 1533605713107,
-            "changeTime": 1533605713107,
-            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\contactSaveCmp\\contactSaveCmp.svg",
-        {
-            "state": "n",
-            "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\contactSaveCmp\\contactSaveCmp.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 667,
-            "modifiedTime": 1533605713108,
-            "changeTime": 1533605713108,
-            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\contactSaveCmp\\contactSaveCmpController.js",
-        {
-            "state": "n",
-            "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\contactSaveCmp\\contactSaveCmpController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 993,
-            "modifiedTime": 1533605713108,
-            "changeTime": 1533605713108,
-            "contentHash": "dd71044fb919e87ae4c29ecde54098d838251971",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\contactSaveCmp\\contactSaveCmpHelper.js",
-        {
-            "state": "n",
-            "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\contactSaveCmp\\contactSaveCmpHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1533605713109,
-            "changeTime": 1533605713109,
-            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\contactSaveCmp\\contactSaveCmpRenderer.js",
-        {
-            "state": "n",
-            "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\contactSaveCmp\\contactSaveCmpRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 55,
-            "modifiedTime": 1533605713109,
-            "changeTime": 1533605713109,
-            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\customLookup",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\customLookup",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1533605713113,
+            "modifiedTime": 1533696849851,
             "changeTime": 1533605713113,
             "contentHash": "5c1456b3d6d69d1db71c5ddefecd9b9e46319761",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -227,14 +76,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\customLookup\\customLookup.auradoc",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\customLookup\\customLookup.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 214,
             "modifiedTime": 1533605713109,
             "changeTime": 1533605713109,
             "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -242,29 +91,28 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\customLookup\\customLookup.cmp",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\customLookup\\customLookup.cmp",
             "isDirectory": false,
+            "size": 4255,
+            "modifiedTime": 1533696849843,
+            "changeTime": 1533696849843,
+            "contentHash": "fe538f510eee4f475aaeaabffc3b2f551396dc60",
             "isMetadataFile": false,
-            "size": 4139,
-            "modifiedTime": 1533605713110,
-            "changeTime": 1533605713110,
-            "contentHash": "d5be24939c61de07211e9d31a7e61cc43e0390a9",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\customLookup\\customLookup.cmp-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\customLookup\\customLookup.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 233,
             "modifiedTime": 1533605713110,
             "changeTime": 1533605713110,
             "contentHash": "78d8681541bc136ce98816dfc3b101cc2e3de47d",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -272,14 +120,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\customLookup\\customLookup.css",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\customLookup\\customLookup.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 91,
             "modifiedTime": 1533605713111,
             "changeTime": 1533605713111,
             "contentHash": "115d39afa8390ccfe6b23c8823aa137b5b408ba5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -287,14 +135,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\customLookup\\customLookup.design",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\customLookup\\customLookup.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 43,
             "modifiedTime": 1533605713111,
             "changeTime": 1533605713111,
             "contentHash": "fd1133da2a691d9691766506143f96a04cbd914c",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -302,14 +150,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\customLookup\\customLookup.svg",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\customLookup\\customLookup.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 667,
             "modifiedTime": 1533605713112,
             "changeTime": 1533605713112,
             "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -317,44 +165,42 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\customLookup\\customLookupController.js",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\customLookup\\customLookupController.js",
             "isDirectory": false,
+            "size": 3654,
+            "modifiedTime": 1533696849847,
+            "changeTime": 1533696849847,
+            "contentHash": "ac83ce71718475f76ca6886df2d480bf1db9e485",
             "isMetadataFile": false,
-            "size": 3656,
-            "modifiedTime": 1533605713112,
-            "changeTime": 1533605713112,
-            "contentHash": "8b2464422d75b4f3b8cd743e565992a97bd55b76",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\customLookup\\customLookupHelper.js",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\customLookup\\customLookupHelper.js",
             "isDirectory": false,
+            "size": 1424,
+            "modifiedTime": 1533696849851,
+            "changeTime": 1533696849851,
+            "contentHash": "de05f98b248c977bb823388acb31042514d56e4e",
             "isMetadataFile": false,
-            "size": 1361,
-            "modifiedTime": 1533605713113,
-            "changeTime": 1533605713113,
-            "contentHash": "8e3e0dd40ada6a7e475a07c7d5d4b6fef417d95f",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\customLookup\\customLookupRenderer.js",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\customLookup\\customLookupRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 53,
             "modifiedTime": 1533605713113,
             "changeTime": 1533605713113,
             "contentHash": "1ce21dc03eaa243aff2d70c2df6092a8069bbd69",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -362,14 +208,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\CustomLookupResult",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\CustomLookupResult",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1533605713091,
+            "modifiedTime": 1533696849822,
             "changeTime": 1533605713091,
             "contentHash": "7e4c6d1e902e79f104fd8b612a7874c5ca8ee557",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -377,14 +223,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\CustomLookupResult\\CustomLookupResult.auradoc",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\CustomLookupResult\\CustomLookupResult.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 214,
             "modifiedTime": 1533605713087,
             "changeTime": 1533605713087,
             "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -392,29 +238,28 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\CustomLookupResult\\CustomLookupResult.cmp",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\CustomLookupResult\\CustomLookupResult.cmp",
             "isDirectory": false,
+            "size": 1741,
+            "modifiedTime": 1533696849818,
+            "changeTime": 1533696849818,
+            "contentHash": "da5bd5677a04bd00de835268ebc47b439b2f7136",
             "isMetadataFile": false,
-            "size": 1339,
-            "modifiedTime": 1533605713088,
-            "changeTime": 1533605713088,
-            "contentHash": "d91a10238987ddc801663b80ea76d87cce52d80d",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\CustomLookupResult\\CustomLookupResult.cmp-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\CustomLookupResult\\CustomLookupResult.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 255,
             "modifiedTime": 1533605713088,
             "changeTime": 1533605713088,
             "contentHash": "1c9ea8ddfaae1fe2797ded3ce1b57512f1576b22",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -422,14 +267,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\CustomLookupResult\\CustomLookupResult.css",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\CustomLookupResult\\CustomLookupResult.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 12,
             "modifiedTime": 1533605713089,
             "changeTime": 1533605713089,
             "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -437,14 +282,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\CustomLookupResult\\CustomLookupResult.design",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\CustomLookupResult\\CustomLookupResult.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 42,
             "modifiedTime": 1533605713089,
             "changeTime": 1533605713089,
             "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -452,14 +297,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\CustomLookupResult\\CustomLookupResult.svg",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\CustomLookupResult\\CustomLookupResult.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 667,
             "modifiedTime": 1533605713090,
             "changeTime": 1533605713090,
             "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -467,29 +312,28 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\CustomLookupResult\\CustomLookupResultController.js",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\CustomLookupResult\\CustomLookupResultController.js",
             "isDirectory": false,
+            "size": 765,
+            "modifiedTime": 1533696849822,
+            "changeTime": 1533696849822,
+            "contentHash": "ba9d2ffc8ca01da1eb8b188b1a11daf113b287c5",
             "isMetadataFile": false,
-            "size": 529,
-            "modifiedTime": 1533605713091,
-            "changeTime": 1533605713091,
-            "contentHash": "fbc1847a731014a221ba28617cfa57c61d427f23",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\CustomLookupResult\\CustomLookupResultHelper.js",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\CustomLookupResult\\CustomLookupResultHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1533605713091,
             "changeTime": 1533605713091,
             "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -497,14 +341,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\CustomLookupResult\\CustomLookupResultRenderer.js",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\CustomLookupResult\\CustomLookupResultRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 55,
             "modifiedTime": 1533605713091,
             "changeTime": 1533605713091,
             "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -512,14 +356,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LocationApp",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LocationApp",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1533605713092,
             "changeTime": 1533605713092,
             "contentHash": "7fe488c2eeb15915b65a09348e7059bb3d451bb1",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -527,14 +371,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LocationApp\\LocationApp.app",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LocationApp\\LocationApp.app",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 62,
             "modifiedTime": 1533605713092,
             "changeTime": 1533605713092,
             "contentHash": "1490d177e99e887df82562cce7422f04b84e4ec3",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -542,14 +386,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LocationApp\\LocationApp.app-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LocationApp\\LocationApp.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 233,
             "modifiedTime": 1533605713092,
             "changeTime": 1533605713092,
             "contentHash": "78d8681541bc136ce98816dfc3b101cc2e3de47d",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -557,14 +401,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LocationCmp",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LocationCmp",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1533605713093,
             "changeTime": 1533605713093,
             "contentHash": "94a77bdda3abfa34972e71a1474417826affa07f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -572,14 +416,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LocationCmp\\LocationCmp.cmp",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LocationCmp\\LocationCmp.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 235,
             "modifiedTime": 1533605713093,
             "changeTime": 1533605713093,
             "contentHash": "1b7530f9b3ea44e09836bd0210c9f2daea7a1a58",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -587,14 +431,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LocationCmp\\LocationCmp.cmp-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LocationCmp\\LocationCmp.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 233,
             "modifiedTime": 1533605713093,
             "changeTime": 1533605713093,
             "contentHash": "78d8681541bc136ce98816dfc3b101cc2e3de47d",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -602,14 +446,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1533605713098,
+            "modifiedTime": 1533696849834,
             "changeTime": 1533605713098,
             "contentHash": "7153c59ab2d2afa4e799e8de4041500718fb4c2e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -617,14 +461,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmp.auradoc",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmp.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 214,
             "modifiedTime": 1533605713094,
             "changeTime": 1533605713094,
             "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -632,29 +476,28 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmp.cmp",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmp.cmp",
             "isDirectory": false,
+            "size": 3058,
+            "modifiedTime": 1533696849826,
+            "changeTime": 1533696849826,
+            "contentHash": "40c66c14192f0a1523e853c1862a6885fe737dd6",
             "isMetadataFile": false,
-            "size": 1095,
-            "modifiedTime": 1533605713094,
-            "changeTime": 1533605713094,
-            "contentHash": "bd73f8f5af192cdc032957cc9f1f02d3aa94199a",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmp.cmp-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmp.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 259,
             "modifiedTime": 1533605713095,
             "changeTime": 1533605713095,
             "contentHash": "150a1ea222222a5263ce56c914e0e5ab36647eb4",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -662,14 +505,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmp.css",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmp.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 12,
             "modifiedTime": 1533605713095,
             "changeTime": 1533605713095,
             "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -677,29 +520,28 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmp.design",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmp.design",
             "isDirectory": false,
+            "size": 934,
+            "modifiedTime": 1533696849830,
+            "changeTime": 1533696849830,
+            "contentHash": "cdae2d56194e16d79a4932e70f1e08441075d0d9",
             "isMetadataFile": false,
-            "size": 168,
-            "modifiedTime": 1533605713096,
-            "changeTime": 1533605713096,
-            "contentHash": "0a73af572279a30cbe44083036ff8a1c33692d3c",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmp.svg",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmp.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 667,
             "modifiedTime": 1533605713096,
             "changeTime": 1533605713096,
             "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -707,29 +549,28 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmpController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmpController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 492,
-            "modifiedTime": 1533605713097,
-            "changeTime": 1533605713097,
-            "contentHash": "d8ca11bd54e9b553fd6d0ef20e432a1e10873582",
+            "size": 4062,
+            "modifiedTime": 1533698789746,
+            "changeTime": 1533698789746,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "6f76233079dafaca221ab756a50d05a44ca4f026"
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmpHelper.js",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmpHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1533605713097,
             "changeTime": 1533605713097,
             "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -737,14 +578,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmpRenderer.js",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmpRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 55,
             "modifiedTime": 1533605713098,
             "changeTime": 1533605713098,
             "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -752,14 +593,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\NewAddress",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\NewAddress",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1533605713100,
             "changeTime": 1533605713100,
             "contentHash": "ff67cb1c4f02767ba04f4ab5ce9fffa2ddda00f8",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -767,14 +608,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\NewAddress\\NewAddress.cmp",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\NewAddress\\NewAddress.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1585,
             "modifiedTime": 1533605713099,
             "changeTime": 1533605713099,
             "contentHash": "ebca977e62f908fbff197af27741315905216256",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -782,14 +623,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\NewAddress\\NewAddress.cmp-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\NewAddress\\NewAddress.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 233,
             "modifiedTime": 1533605713099,
             "changeTime": 1533605713099,
             "contentHash": "78d8681541bc136ce98816dfc3b101cc2e3de47d",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -797,14 +638,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\NewAddress\\NewAddress.design",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\NewAddress\\NewAddress.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 133,
             "modifiedTime": 1533605713099,
             "changeTime": 1533605713099,
             "contentHash": "7f7f7238bddb2f956818f52115371ea2f3b5f102",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -812,14 +653,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\NewAddress\\NewAddressController.js",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\NewAddress\\NewAddressController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 107,
             "modifiedTime": 1533605713100,
             "changeTime": 1533605713100,
             "contentHash": "553fa77eda1f27fd20d1bcf8ed8f566f32aa891c",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -827,14 +668,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\SelectedsObjectRecordEvent",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\SelectedsObjectRecordEvent",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1533605713101,
+            "modifiedTime": 1533696849838,
             "changeTime": 1533605713101,
             "contentHash": "75614de66f87f8a2138b3f71f1f1ff6b2baddb4d",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -842,29 +683,28 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\SelectedsObjectRecordEvent\\SelectedsObjectRecordEvent.evt",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\SelectedsObjectRecordEvent\\SelectedsObjectRecordEvent.evt",
             "isDirectory": false,
+            "size": 271,
+            "modifiedTime": 1533696849838,
+            "changeTime": 1533696849838,
+            "contentHash": "c07931cff748c7d13387eeaf62774687d7d2ca12",
             "isMetadataFile": false,
-            "size": 214,
-            "modifiedTime": 1533605713100,
-            "changeTime": 1533605713100,
-            "contentHash": "c7334838f58469f77ed8d90576aad4abf590446d",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\SelectedsObjectRecordEvent\\SelectedsObjectRecordEvent.evt-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\SelectedsObjectRecordEvent\\SelectedsObjectRecordEvent.evt-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 259,
             "modifiedTime": 1533605713101,
             "changeTime": 1533605713101,
             "contentHash": "57ee55be76fbcf453d5755733116cc2614207fb2",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -872,14 +712,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\svg",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\svg",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1533605713114,
             "changeTime": 1533605713114,
             "contentHash": "a8b06822c8ee508bf812bd78c8c174f37864b517",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -887,14 +727,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\svg\\svg.cmp",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\svg\\svg.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 408,
             "modifiedTime": 1533605713114,
             "changeTime": 1533605713114,
             "contentHash": "0340ad635eb2189c6fb6a0568a5a7febac26af35",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -902,14 +742,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\svg\\svg.cmp-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\svg\\svg.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 233,
             "modifiedTime": 1533605713114,
             "changeTime": 1533605713114,
             "contentHash": "78d8681541bc136ce98816dfc3b101cc2e3de47d",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -917,14 +757,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\svg\\svgRenderer.js",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\svg\\svgRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 532,
             "modifiedTime": 1533605713114,
             "changeTime": 1533605713114,
             "contentHash": "8317dc06d36b29a272da203b279e142f0cf47ff1",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -932,14 +772,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\TestLookup",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\TestLookup",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1533605713104,
             "changeTime": 1533605713104,
             "contentHash": "047fccf03718005c01b0e32b88f285c003553753",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -947,14 +787,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\TestLookup\\TestLookup.app",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\TestLookup\\TestLookup.app",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 385,
             "modifiedTime": 1533605713101,
             "changeTime": 1533605713101,
             "contentHash": "0301222145262a18e8be48da043d5c01bd7a7962",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -962,14 +802,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\TestLookup\\TestLookup.app-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\TestLookup\\TestLookup.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 235,
             "modifiedTime": 1533605713102,
             "changeTime": 1533605713102,
             "contentHash": "5eb635c8e5c96330349126546c4d6ac54bb455bc",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -977,14 +817,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\TestLookup\\TestLookup.auradoc",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\TestLookup\\TestLookup.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 214,
             "modifiedTime": 1533605713102,
             "changeTime": 1533605713102,
             "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -992,14 +832,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\TestLookup\\TestLookup.css",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\TestLookup\\TestLookup.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1533605713103,
             "changeTime": 1533605713103,
             "contentHash": "579b87c7a919b954ff62f1f28c2b20be3610eace",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1007,14 +847,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\TestLookup\\TestLookup.svg",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\TestLookup\\TestLookup.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 667,
             "modifiedTime": 1533605713103,
             "changeTime": 1533605713103,
             "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1022,14 +862,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\TestLookup\\TestLookupController.js",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\TestLookup\\TestLookupController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 68,
             "modifiedTime": 1533605713104,
             "changeTime": 1533605713104,
             "contentHash": "bacd2b78662e7b8ab20a47c7ac5cce33c0faa8d7",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1037,14 +877,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\TestLookup\\TestLookupHelper.js",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\TestLookup\\TestLookupHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 48,
             "modifiedTime": 1533605713104,
             "changeTime": 1533605713104,
             "contentHash": "2de9c10b36e20c750848f5088025b81b09557917",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1052,14 +892,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\TestLookup\\TestLookupRenderer.js",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\TestLookup\\TestLookupRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 53,
             "modifiedTime": 1533605713104,
             "changeTime": 1533605713104,
             "contentHash": "1ce21dc03eaa243aff2d70c2df6092a8069bbd69",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1067,74 +907,42 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\classes",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1533605713116,
-            "changeTime": 1533605713116,
-            "contentHash": "7436cf7c1f42aa6de36f9c841925f4e5d73e030d",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\classes\\contactSaveCtrl.cls",
-        {
-            "state": "n",
-            "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\classes\\contactSaveCtrl.cls",
-            "isDirectory": false,
+            "modifiedTime": 1533696849855,
+            "changeTime": 1533696849855,
+            "contentHash": "df06c6b6829d446e549e9b6591f8cc1949749a89",
             "isMetadataFile": false,
-            "size": 133,
-            "modifiedTime": 1533605713116,
-            "changeTime": 1533605713116,
-            "contentHash": "17f9262b3d79120d3d5c95faedaebe52bce3209f",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\classes\\contactSaveCtrl.cls-meta.xml",
-        {
-            "state": "n",
-            "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\classes\\contactSaveCtrl.cls-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 198,
-            "modifiedTime": 1533605713116,
-            "changeTime": 1533605713116,
-            "contentHash": "aaa40875270afdf8f1cd3cc8ac6e7abad096e756",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\classes\\CustomLookUpController.cls",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\classes\\CustomLookUpController.cls",
             "isDirectory": false,
+            "size": 3195,
+            "modifiedTime": 1533697723434,
+            "changeTime": 1533697723434,
+            "contentHash": "d1cadfac76bcd05f3138080aa0633861190fe0d8",
             "isMetadataFile": false,
-            "size": 1277,
-            "modifiedTime": 1533605713115,
-            "changeTime": 1533605713115,
-            "contentHash": "6474e22c5e47fe810b998c1bba30d8a204c9e2ca",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\classes\\CustomLookUpController.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\classes\\CustomLookUpController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 205,
             "modifiedTime": 1533605713115,
             "changeTime": 1533605713115,
             "contentHash": "00ca1a20fceff737f1bdc60100f6a0eecd54e2da",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1142,29 +950,28 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\flexipages",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1533605713117,
-            "changeTime": 1533605713117,
-            "contentHash": "93892784947c4c318ee6dabdf6c863b9a0b93480",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1533696849861,
+            "changeTime": 1533696849861,
+            "contentHash": "9fe2910a15e87e4228f8cf438f3825b555d94107",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6406,
             "modifiedTime": 1533605713117,
             "changeTime": 1533605713117,
             "contentHash": "ce2520dde8c6e630f33ac639e81891d2400808ac",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1172,74 +979,68 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\flexipages\\Account_Record_Page1.flexipage-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\flexipages\\Account_Record_Page1.flexipage-meta.xml",
             "isDirectory": false,
+            "size": 9168,
+            "modifiedTime": 1533696849856,
+            "changeTime": 1533696849856,
+            "contentHash": "fa4128e957d41bf1cd058482f77a1828d7886017",
             "isMetadataFile": true,
-            "size": 7317,
-            "modifiedTime": 1533605713118,
-            "changeTime": 1533605713118,
-            "contentHash": "8c4d7c4ca28d93b3f3e5b58a0b44b5faa6270d9f",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\layouts",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1533605713119,
-            "changeTime": 1533605713119,
-            "contentHash": "3879cd1a87b9b86866459d67b834d6fd51985bfe",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1533696849869,
+            "changeTime": 1533606763974,
+            "contentHash": "4a81a1832a0f9f0181adeb3f66e2fc5e24975738",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\layouts\\Address__c-Address Layout.layout-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\layouts\\Address__c-Address Layout.layout-meta.xml",
             "isDirectory": false,
+            "size": 3267,
+            "modifiedTime": 1533696849865,
+            "changeTime": 1533696849865,
+            "contentHash": "1a7c70aa9e5f15ac69b8b058dd975f122492bd2a",
             "isMetadataFile": true,
-            "size": 3128,
-            "modifiedTime": 1533605713119,
-            "changeTime": 1533605713119,
-            "contentHash": "d4c2eeeeec708fe4b51dafe47720284bf3c90b7a",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1533605713125,
-            "changeTime": 1533605713125,
-            "contentHash": "16d00e4b80fce6c11304de3e9d897f6cb64b6428",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1533696849870,
+            "changeTime": 1533696849870,
+            "contentHash": "144b8e2657ca86a5d83e0d315c53b65f99e61ede",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1533605713120,
             "changeTime": 1533605713120,
             "contentHash": "7e07eb8f1af457f56a1101d84cb8d06e8249b6d6",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1247,14 +1048,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4015,
             "modifiedTime": 1533605713120,
             "changeTime": 1533605713120,
             "contentHash": "ce76cd0fd4ca479ba795a32043db082f198a6409",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1262,14 +1063,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Address__c",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Address__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1533605713124,
             "changeTime": 1533605713124,
             "contentHash": "cb86b7ac1680b082cf3ccfe7bdf122a41e2c1fa6",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1277,14 +1078,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Address__c\\Address__c.object-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Address__c\\Address__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2263,
             "modifiedTime": 1533605713121,
             "changeTime": 1533605713121,
             "contentHash": "e1b5a16675d9f125b0c54f8ac6ff217e36546f46",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1292,14 +1093,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Address__c\\fields",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Address__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1533605713124,
             "changeTime": 1533605713124,
             "contentHash": "e49f62b5fc8072f6b6c63ee7e5a74d067beba4b4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1307,14 +1108,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Address__c\\fields\\Address__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Address__c\\fields\\Address__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 371,
             "modifiedTime": 1533605713122,
             "changeTime": 1533605713122,
             "contentHash": "b66d774d6daf165a7630452ba33bd48e1f1965ba",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1322,14 +1123,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Address__c\\fields\\City__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Address__c\\fields\\City__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 365,
             "modifiedTime": 1533605713122,
             "changeTime": 1533605713122,
             "contentHash": "6718fe84ed4ccda39f3db3a4abb2ed6b9870fa46",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1337,14 +1138,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Address__c\\fields\\County__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Address__c\\fields\\County__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 369,
             "modifiedTime": 1533605713122,
             "changeTime": 1533605713122,
             "contentHash": "e0cf6b7b923ab5b75fba6047922fb7b76f466ae7",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1352,14 +1153,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Address__c\\fields\\State__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Address__c\\fields\\State__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 367,
             "modifiedTime": 1533605713123,
             "changeTime": 1533605713123,
             "contentHash": "d950901e8b08286cb1d3a4bcd5902698b2917943",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1367,14 +1168,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Address__c\\fields\\Street__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Address__c\\fields\\Street__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 369,
             "modifiedTime": 1533605713123,
             "changeTime": 1533605713123,
             "contentHash": "fffb6be0d3e48a499c6f37790c30b889a7072c17",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1382,14 +1183,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Address__c\\fields\\Zip_Code__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Address__c\\fields\\Zip_Code__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 372,
             "modifiedTime": 1533605713124,
             "changeTime": 1533605713124,
             "contentHash": "1243dd753d40c1c0dc220fea927ff5ed5f80023a",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1397,14 +1198,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Address__c\\listViews",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Address__c\\listViews",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1533605713124,
             "changeTime": 1533605713124,
             "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1412,14 +1213,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Address__c\\listViews\\All.listView-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Address__c\\listViews\\All.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 210,
             "modifiedTime": 1533605713124,
             "changeTime": 1533605713124,
             "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1427,14 +1228,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1533605713128,
             "changeTime": 1533605713128,
             "contentHash": "237e56e0088816fc8ca7214c70916abe02cd3e69",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1442,14 +1243,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\compactLayouts",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\compactLayouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1533605713125,
             "changeTime": 1533605713125,
             "contentHash": "38a9fd7dc0e8f2bf0aaf3c0ed12f8f7b7be8835d",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1457,14 +1258,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\compactLayouts\\Service_Location_Address.compactLayout-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\compactLayouts\\Service_Location_Address.compactLayout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 252,
             "modifiedTime": 1533605713126,
             "changeTime": 1533605713126,
             "contentHash": "29225370628a18fef945a6f5667a555a04777838",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1472,29 +1273,28 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\fields",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1533605713128,
-            "changeTime": 1533605713128,
-            "contentHash": "893c5051bac2f35f8f3675409e04320a239ee8bd",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1533696849877,
+            "changeTime": 1533696849877,
+            "contentHash": "6d284264821b2fd957cedc2feb87ef6169a0ca9e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\fields\\Address__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\fields\\Address__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 629,
             "modifiedTime": 1533605713126,
             "changeTime": 1533605713126,
             "contentHash": "cc221c2435bdbe0c690b36bbf8373d756b71a75a",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1502,14 +1302,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\fields\\Cage__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\fields\\Cage__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 365,
             "modifiedTime": 1533605713127,
             "changeTime": 1533605713127,
             "contentHash": "87c6dba2e9f250cee435ecc15cb11201ca72a5f4",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1517,14 +1317,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\fields\\DMARC_Tie_down_info__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\fields\\DMARC_Tie_down_info__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 549,
             "modifiedTime": 1533605713127,
             "changeTime": 1533605713127,
             "contentHash": "894ce3b9ec41962a9d6a29f28f37b1b7177c2142",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1532,14 +1332,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\fields\\Floor__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\fields\\Floor__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 367,
             "modifiedTime": 1533605713128,
             "changeTime": 1533605713128,
             "contentHash": "82c4dd451413b94311e256673a450c7da2b42b1c",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1547,14 +1347,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\fields\\Room__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\fields\\Room__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 365,
             "modifiedTime": 1533605713128,
             "changeTime": 1533605713128,
             "contentHash": "6ca042964844ecf37645179bb2fa9a5c8143e45f",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1562,14 +1362,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\listViews",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\listViews",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1533605713129,
             "changeTime": 1533605713129,
             "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1577,14 +1377,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\listViews\\All.listView-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\listViews\\All.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 321,
             "modifiedTime": 1533605713129,
             "changeTime": 1533605713129,
             "contentHash": "ae3e12cec5e69dd97667739369f76d1994cead78",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1592,14 +1392,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\Service_Location__c.object-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\Service_Location__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3267,
             "modifiedTime": 1533605713125,
             "changeTime": 1533605713125,
             "contentHash": "424f68ec6216ca1a1afbe061ae25309ad9f8ff0b",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1607,14 +1407,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\permissionsets",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1533605713129,
             "changeTime": 1533605713129,
             "contentHash": "84720236dcb3f8f3cb1ac9735191a68836052477",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1622,14 +1422,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\permissionsets\\Location.permissionset-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\permissionsets\\Location.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5392,
             "modifiedTime": 1533605713129,
             "changeTime": 1533605713129,
             "contentHash": "c615e393cc6abd5a0df7c9e1132c30b44513a03d",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1637,14 +1437,14 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\profiles",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1533605713132,
+            "modifiedTime": 1533696849893,
             "changeTime": 1533605713132,
             "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1652,89 +1452,79 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
+            "size": 21708,
+            "modifiedTime": 1533696849882,
+            "changeTime": 1533696849882,
+            "contentHash": "7933846780fdde04e86d81bbeaec5cd00f569951",
             "isMetadataFile": true,
-            "size": 21174,
-            "modifiedTime": 1533605713130,
-            "changeTime": 1533605713130,
-            "contentHash": "5dacee4b7dcfac627480769bd968ee25a53d5e75",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 7144,
+            "modifiedTime": 1533696849886,
+            "changeTime": 1533696849886,
+            "contentHash": "fc674a241fd1d1f98d62b2c1920c682b706d070b",
             "isMetadataFile": true,
-            "size": 6610,
-            "modifiedTime": 1533605713131,
-            "changeTime": 1533605713131,
-            "contentHash": "0ed703ec6aeae8017deb97feedd459351a084244",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 7144,
+            "modifiedTime": 1533696849886,
+            "changeTime": 1533696849886,
+            "contentHash": "fc674a241fd1d1f98d62b2c1920c682b706d070b",
             "isMetadataFile": true,
-            "size": 6610,
-            "modifiedTime": 1533605713131,
-            "changeTime": 1533605713131,
-            "contentHash": "0ed703ec6aeae8017deb97feedd459351a084244",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 7494,
+            "modifiedTime": 1533696849894,
+            "changeTime": 1533696849894,
+            "contentHash": "e6ff15f4ef0cc469ec1fe51bcb9cd9cc055725c2",
             "isMetadataFile": true,
-            "size": 6960,
-            "modifiedTime": 1533605713132,
-            "changeTime": 1533605713132,
-            "contentHash": "2146b31235fb709f352ec497ef9f293d9301ce3b",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\tabs",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1533605713132,
-            "changeTime": 1533605713132,
-            "contentHash": "90e5be5b90fe78f7304e2c96ac67e9f3b2fb4db6",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1533606250987,
+            "changeTime": 1533606250987,
+            "contentHash": "8145f6e55f61a4f186688eb091df0451ede51096",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\tabs\\Address__c.tab-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\tabs\\Address__c.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 229,
             "modifiedTime": 1533605713132,
             "changeTime": 1533605713132,
             "contentHash": "f0668c8a19d936f6ec456798becd1649e312fde3",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1742,16 +1532,107 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups",
         {
-            "state": "n",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1533605713135,
             "changeTime": 1533605713135,
             "contentHash": "723d942de03ace51c539c9419c2e02505f12a229",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\tabs\\Service_Location__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\tabs\\Service_Location__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 222,
+            "modifiedTime": 1533606250988,
+            "changeTime": 1533606250988,
+            "contentHash": "e6d3ceb7c99eb8a50672ce743ff76440c6fcc5a6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\layouts\\Service_Location__c-Service Location Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\layouts\\Service_Location__c-Service Location Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3146,
+            "modifiedTime": 1533696849870,
+            "changeTime": 1533696849870,
+            "contentHash": "103cd1939dce529b7be5715e4af3dc8321b34516",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Contact",
+        {
+            "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533696849873,
+            "changeTime": 1533696849873,
+            "contentHash": "661e0d544b605f6d4bf16ac9782ecd625944d391",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\flexipages\\Contact_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\flexipages\\Contact_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 7668,
+            "modifiedTime": 1533696849860,
+            "changeTime": 1533696849860,
+            "contentHash": "f72548c7b3203ccab5c99fc1ee297653f3f2d251",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\flexipages\\Contact_Record_Page1.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\flexipages\\Contact_Record_Page1.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 7672,
+            "modifiedTime": 1533696849861,
+            "changeTime": 1533696849861,
+            "contentHash": "08ec428abd6e023b7a6f2ce16ebc4a65c9cac75a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Contact\\Contact.object-meta.xml",
+        {
+            "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Contact\\Contact.object-meta.xml",
+            "isDirectory": false,
+            "size": 5245,
+            "modifiedTime": 1533696849874,
+            "changeTime": 1533696849874,
+            "contentHash": "6ced8261be05a6708068c6471f17752d24e71151",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\fields\\NameFormula__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\objects\\Service_Location__c\\fields\\NameFormula__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 513,
+            "modifiedTime": 1533696849877,
+            "changeTime": 1533696849877,
+            "contentHash": "423aec31aab4bdd4e70f1c8c5b0cc2063b6e807a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]

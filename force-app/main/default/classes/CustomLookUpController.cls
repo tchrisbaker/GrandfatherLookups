@@ -60,7 +60,13 @@ public class CustomLookUpController {
         record.put('Id', (Id) recordId);
         record.put(lookupField, (Id) lookupId);
         system.debug('record = ' + record);
-        update record;
+        try {
+            update record;
+        }
+        catch (Exception e) {
+        // "Convert" the exception into an AuraHandledException
+        throw new AuraHandledException('Darn it! Something went wrong: '+ e.getMessage());    
+        }
     }
      
     public class LookupItem {
