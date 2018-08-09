@@ -476,15 +476,15 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmp.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmp.cmp",
             "isDirectory": false,
-            "size": 3058,
-            "modifiedTime": 1533696849826,
-            "changeTime": 1533696849826,
-            "contentHash": "40c66c14192f0a1523e853c1862a6885fe737dd6",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 3196,
+            "modifiedTime": 1533795698668,
+            "changeTime": 1533795698668,
+            "isWorkspace": false,
+            "contentHash": "c65b0e0b96f422306a3c796e5242f71cdef34bed"
         }
     ],
     [
@@ -549,15 +549,15 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmpController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmpController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 3994,
             "modifiedTime": 1533699192399,
             "changeTime": 1533699192399,
-            "isWorkspace": false,
-            "contentHash": "9943aa4e8d8e58089646f750401500596c556c19"
+            "contentHash": "9943aa4e8d8e58089646f750401500596c556c19",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -610,14 +610,13 @@
         {
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\NewAddress\\NewAddress.cmp",
             "isDirectory": false,
-            "size": 1585,
-            "modifiedTime": 1533605713099,
-            "changeTime": 1533605713099,
-            "contentHash": "ebca977e62f908fbff197af27741315905216256",
+            "size": 1579,
+            "modifiedTime": 1533795357685,
+            "changeTime": 1533795357685,
+            "contentHash": "3288e27be4b7813f0fad0862227579c7d95e3420",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [

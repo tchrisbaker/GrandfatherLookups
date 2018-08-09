@@ -16,7 +16,7 @@
     <aura:attribute name="childId" type="string" />
     <aura:handler name="oSelectedRecordEvent" event="c:SelectedsObjectRecordEvent" action="{!c.handleApplicationEvent}"/>
     
-    <!--{!v.recordId}-->
+    
 
     <lightning:card iconName="standard:account" footer="" title="Select Location">
         <aura:set attribute="actions">

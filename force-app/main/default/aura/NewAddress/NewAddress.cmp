@@ -15,12 +15,15 @@
         </header>
         <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
         -->
+        <lightning:recordForm 
+          objectApiName="{!v.objectType}" 
+          layoutType="Full"
+          columns="2"
+          mode="edit"
+      />
 
-          <lightning:recordForm 
-            objectApiName="{!v.objectType}"
-            fields="{!v.fieldsList}"
-            columns="{!v.numberOfColumns}"
-            onsuccess="{!c.onSuccess}"/>                      
+       
+        
       <!--  </div>
       </div>
     </section>
