@@ -5,11 +5,18 @@
     handleApplicationEvent : function(component, event) {
         var recordByEvent = event.getParam("recordByEvent");
         var isLookupOne = event.getParam("isLookupOne");
-        console.log("recordByEvent " + recordByEvent.Id);
+        console.log("recordByEvent id" + recordByEvent.Id);
+        console.log("recordByEvent name" + recordByEvent.NameStr);
         console.log("isLookupOne " + event.getParam("isLookupOne"));
         if (isLookupOne === true) { 
-            console.log("parentid " + recordByEvent.Id);
-            component.set("v.parentId", recordByEvent.Id);
+            if (recordByEvent.NameStr === "Insert New") {
+                $A.util.removeClass(component.find("newAddress"), "slds-hide");
+                $A.util.addClass(component.find("newAddress"), "slds-show");
+            }
+            else {
+                console.log("parentid " + recordByEvent.Id);
+                component.set("v.parentId", recordByEvent.Id);
+            }
         }
         else {
             console.log("childId " + recordByEvent.Id);
@@ -42,6 +49,9 @@
         
                 $A.util.addClass(component.find("outputFIelds"), "slds-show");
                 $A.util.removeClass(component.find("outputFIelds"), "slds-hide");
+
+                $A.util.removeClass(component.find("saveBtn"), "slds-hide");
+                $A.util.addClass(component.find("saveBtn"), "slds-show");
             }
             else if (state === "ERROR") {
                 let errors = response.getError();

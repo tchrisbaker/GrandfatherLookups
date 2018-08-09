@@ -4,7 +4,7 @@
        var getSelectRecord = component.get("v.oRecord");
      // call the event   
        var compEvent = component.getEvent("oSelectedRecordEvent");
-       isLookupOne
+       //isLookupOne
       var isLookupOne = component.get("v.isLookupOne") ;
       console.log("$$isLookupOne " + isLookupOne);
       //setParams({"addDate" : dateStr, "addTime" : addTimeStr}); 

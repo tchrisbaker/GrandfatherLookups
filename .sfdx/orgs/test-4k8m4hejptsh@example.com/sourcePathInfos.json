@@ -93,10 +93,10 @@
         {
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\customLookup\\customLookup.cmp",
             "isDirectory": false,
-            "size": 4255,
-            "modifiedTime": 1533696849843,
-            "changeTime": 1533696849843,
-            "contentHash": "fe538f510eee4f475aaeaabffc3b2f551396dc60",
+            "size": 4286,
+            "modifiedTime": 1533809458185,
+            "changeTime": 1533809458185,
+            "contentHash": "35da9e48bc4abd7d268caa126f072d0da0c16855",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -314,10 +314,10 @@
         {
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\CustomLookupResult\\CustomLookupResultController.js",
             "isDirectory": false,
-            "size": 765,
-            "modifiedTime": 1533696849822,
-            "changeTime": 1533696849822,
-            "contentHash": "ba9d2ffc8ca01da1eb8b188b1a11daf113b287c5",
+            "size": 767,
+            "modifiedTime": 1533809426679,
+            "changeTime": 1533809426679,
+            "contentHash": "3f6dc640dd426bc4b143dc3f7f6e7a320193ee29",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -476,15 +476,15 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmp.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmp.cmp",
             "isDirectory": false,
+            "size": 3172,
+            "modifiedTime": 1533808998145,
+            "changeTime": 1533808998145,
+            "contentHash": "7637816f1ae61efa1607c8ba875c09e8a57c9430",
             "isMetadataFile": false,
-            "size": 3196,
-            "modifiedTime": 1533795698668,
-            "changeTime": 1533795698668,
-            "isWorkspace": false,
-            "contentHash": "c65b0e0b96f422306a3c796e5242f71cdef34bed"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -549,15 +549,15 @@
     [
         "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmpController.js",
         {
+            "state": "u",
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\LookupToGrandparentCmp\\LookupToGrandparentCmpController.js",
             "isDirectory": false,
-            "size": 3994,
-            "modifiedTime": 1533699192399,
-            "changeTime": 1533699192399,
-            "contentHash": "9943aa4e8d8e58089646f750401500596c556c19",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 4495,
+            "modifiedTime": 1533809722347,
+            "changeTime": 1533809722347,
+            "isWorkspace": false,
+            "contentHash": "41da0df1234c84fd97394e35e815a2f7f9e9f93d"
         }
     ],
     [
@@ -610,10 +610,10 @@
         {
             "sourcePath": "C:\\users\\tchri\\Documents\\SFDX Projects\\GrandfatherLookup2\\GrandfatherLookups\\force-app\\main\\default\\aura\\NewAddress\\NewAddress.cmp",
             "isDirectory": false,
-            "size": 1579,
-            "modifiedTime": 1533795357685,
-            "changeTime": 1533795357685,
-            "contentHash": "3288e27be4b7813f0fad0862227579c7d95e3420",
+            "size": 1540,
+            "modifiedTime": 1533795814349,
+            "changeTime": 1533795814349,
+            "contentHash": "b02e1c18dbab067a707fbf54053cf8f161ddb925",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false

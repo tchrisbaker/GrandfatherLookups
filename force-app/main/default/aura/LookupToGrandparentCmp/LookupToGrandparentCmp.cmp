@@ -16,13 +16,16 @@
     <aura:attribute name="childId" type="string" />
     <aura:handler name="oSelectedRecordEvent" event="c:SelectedsObjectRecordEvent" action="{!c.handleApplicationEvent}"/>
     
-    
+   
 
     <lightning:card iconName="standard:account" footer="" title="Select Location">
         <aura:set attribute="actions">
-                <lightning:button  class="slds-hide" aura:id="saveBtn" label="Save" title="Save" onclick="{! c.handleSaveClick }"/>
-                <lightning:button class="slds-show" aura:id="editBtn" label="Edit" title="Edit" onclick="{! c.handleEditClick }"/>
+            <lightning:button  class="slds-hide" aura:id="saveBtn" label="Save" title="Save" onclick="{! c.handleSaveClick }"/>
+            <lightning:button class="slds-show" aura:id="editBtn" label="Edit" title="Edit" onclick="{! c.handleEditClick }"/>
         </aura:set>
+        <div  aura:id="newAddress" class="slds-hide"  >
+            <c:NewAddress objectType = "{!v.parentObjectAPIName}" />
+        </div>
         <div aura:id="lookups" class="slds-hide" >
             <c:customLookup  aura:id="lookup1" isLookupOne="true" fieldsToDisplay="{!v.parentFieldToDisplay}" objectAPIName="{!v.parentObjectAPIName}" IconName="{!v.IconName}" label="{!v.parentLabel}" />         
             <c:customLookup  aura:id="lookup2" isLookupOne="false" fieldsToDisplay="{!v.childFieldToDisplay}" objectAPIName="{!v.childObjectAPIName}" parentField="{!v.parentFIeld}" parentId="{!v.parentId}" IconName="{!v.IconName}" label="{!v.childLabel}" />
